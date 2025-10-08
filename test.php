@@ -1,55 +1,4 @@
-<html lang="en-US">
-
-<head>
-  <script data-no-optimize="1" type="text/javascript">
-    var litespeed_docref = sessionStorage.getItem("litespeed_docref");
-    litespeed_docref && (Object.defineProperty(document, "referrer", {
-      get: function() {
-        return litespeed_docref
-      }
-    }), sessionStorage.removeItem("litespeed_docref"));
-  </script>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="profile" href="https://gmpg.org/xfn/11">
-  <title>Five Star Formwork – Best Formwork Solutions</title>
-  <meta name="robots" content="max-image-preview:large">
-  <style>
-    img:is([sizes="auto" i], [sizes^="auto," i]) {
-      contain-intrinsic-size: 3000px 1500px
-    }
-  </style>
-  <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Titillium+Web%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.8.2" media="all">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style2.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style3.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style4.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style5.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style6.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style7.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style8.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style9.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style10.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style11.css" media="all">
-  <link data-optimized="1" rel="stylesheet" id="hello-elementor-css" href="assets/css/style12.css" media="all">
-
-
-  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
-  <script src="assets/js/jquery.js" id="jquery-core-js" type="text/javascript"></script>
-  <script data-optimized="1" src="assets/js//index.js" defer="" data-deferred="1" type="text/javascript"></script>
-  <meta name="generator" content="">
-  <link rel="canonical" href="">
-  <link rel="shortlink" href="">
-
-  <meta name="generator" content="Elementor 3.25.3; features: additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-swap">
-
-  <link rel="icon" href="assets/images/favicon.webp" sizes="32x32">
-  <link rel="apple-touch-icon" href="">
-  <meta name="msapplication-TileImage" content="">
-</head>
-
-<body class="home wp-singular page-template-default page page-id-97 wp-theme-hello-elementor elementor-default elementor-kit-9 elementor-page elementor-page-97 e--ua-firefox" data-elementor-device-mode="desktop"><a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<body class="home wp-singular page-template-default page page-id-97 wp-theme-hello-elementor elementor-default elementor-kit-9 elementor-page elementor-page-97 e--ua-isTouchDevice e--ua-blink e--ua-webkit" data-elementor-device-mode="desktop"><a class="skip-link screen-reader-text" href="#content">Skip to content</a>
   <div data-elementor-type="header" data-elementor-id="93" class="elementor elementor-93 elementor-location-header" data-elementor-post-type="elementor_library">
     <section class="elementor-section elementor-top-section elementor-element elementor-element-1d9d199d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d9d199d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
       <div class="elementor-container elementor-column-gap-default">
@@ -61,8 +10,7 @@
                   <div class="elementor-widget-wrap elementor-element-populated">
                     <div class="elementor-element elementor-element-22b1a51c elementor-widget elementor-widget-image" data-id="22b1a51c" data-element_type="widget" data-widget_type="image.default">
                       <div class="elementor-widget-container">
-                        <a href="index">
-                          <img fetchpriority="high" width="1538" height="756" src="assets/images/logo.webp" class="attachment-full size-full wp-image-422" alt="" srcset="" sizes="(max-width: 1538px) 100vw, 1538px"> </a>
+
                       </div>
                     </div>
                   </div>
@@ -72,25 +20,13 @@
                     <div class="elementor-element elementor-element-7bdcc948 elementor-nav-menu__align-end elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="7bdcc948" data-element_type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-angle-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
                       <div class="elementor-widget-container">
                         <nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
-                          <ul id="menu-1-7bdcc948" class="elementor-nav-menu" data-smartmenus-id="17599163913231587">
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-155"><a href="index" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="#about" class="elementor-item">About</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="#services" class="elementor-item">Services</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="#products" class="elementor-item">Products</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="#contact" class="elementor-item">Contact</a></li>
-                          </ul>
+
                         </nav>
                         <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false" style="">
                           <i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fas fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close icofont icofont-close"></i> <span class="elementor-screen-only">Menu</span>
                         </div>
-                        <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="top: 35px; width: 1903px; left: 0px;">
-                          <ul id="menu-2-7bdcc948" class="elementor-nav-menu" data-smartmenus-id="17599163913230793">
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-155"><a href="index" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="#about" class="elementor-item" tabindex="-1">About</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="#services" class="elementor-item" tabindex="-1">Services</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a href="#products" class="elementor-item" tabindex="-1">Products</a></li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="#contact" class="elementor-item" tabindex="-1">Contact</a></li>
-                          </ul>
+                        <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="top: 35px; --menu-height: 0; width: 1903px; left: 0px;">
+
                         </nav>
                       </div>
                     </div>
@@ -105,11 +41,7 @@
             <div class="elementor-element elementor-element-68eab46f elementor-align-right elementor-widget elementor-widget-button" data-id="68eab46f" data-element_type="widget" data-widget_type="button.default">
               <div class="elementor-widget-container">
                 <div class="elementor-button-wrapper">
-                  <a class="elementor-button elementor-button-link elementor-size-md" href="#contact">
-                    <span class="elementor-button-content-wrapper">
-                      <span class="elementor-button-text">Get Quote</span>
-                    </span>
-                  </a>
+
                 </div>
               </div>
             </div>
@@ -121,11 +53,37 @@
   <main id="content" class="site-main post-97 page type-page status-publish hentry">
     <div class="page-content">
       <div data-elementor-type="wp-page" data-elementor-id="97" class="elementor elementor-97" data-elementor-post-type="page">
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-5f15e24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f15e24" data-element_type="section" data-settings="">
-          <div class="elementor-background-slideshow swiper swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-rtl swiper-watch-progress swiper-backface-hidden" dir="rtl">
-            <div class="swiper-wrapper" style="transition-duration: 0ms;" id="swiper-wrapper-93f9b57e3a97afe3" aria-live="off">
-              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(0px, 0px, 0px);" role="group" aria-label="1 / 3">
-                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(assets/images/alu_img.png);"></div>
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-5f15e24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f15e24" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:304,&quot;url&quot;:&quot;https:\/\/fivestarformwork.in\/wp-content\/uploads\/2023\/09\/alu_img.png&quot;},{&quot;id&quot;:305,&quot;url&quot;:&quot;https:\/\/fivestarformwork.in\/wp-content\/uploads\/2023\/09\/Alu-form.png&quot;},{&quot;id&quot;:306,&quot;url&quot;:&quot;https:\/\/fivestarformwork.in\/wp-content\/uploads\/2023\/09\/aluminum-concrete-formwork-2-1024x768-1.png&quot;}],&quot;background_slideshow_lazyload&quot;:&quot;yes&quot;,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+          <div class="elementor-background-slideshow swiper swiper-fade swiper-initialized swiper-horizontal swiper-rtl swiper-watch-progress swiper-backface-hidden" dir="rtl">
+            <div class="swiper-wrapper" style="transition-duration: 0ms;" id="swiper-wrapper-63adfefa134098e5" aria-live="off">
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(0px, 0px, 0px);" role="group" aria-label="1 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(&quot;&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(1903px, 0px, 0px);" role="group" aria-label="2 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(&quot;&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(3806px, 0px, 0px);" role="group" aria-label="3 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(&quot;&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(5709px, 0px, 0px);" role="group" aria-label="1 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(&quot;&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-visible swiper-slide-active" data-swiper-slide-index="1" style="width: 1903px; transition-duration: 0ms; opacity: 1; transform: translate3d(7612px, 0px, 0px);" role="group" aria-label="2 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded elementor-ken-burns--active" style="background-image: url(&quot;&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(9515px, 0px, 0px);" role="group" aria-label="3 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(&quot;&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(11418px, 0px, 0px);" role="group" aria-label="1 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(&quot;&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(13321px, 0px, 0px);" role="group" aria-label="2 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded" style="background-image: url(&quot;.png&quot;);"></div>
+              </div>
+              <div class="elementor-background-slideshow__slide swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1903px; transition-duration: 0ms; opacity: 0; transform: translate3d(15224px, 0px, 0px);" role="group" aria-label="3 / 3">
+                <div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy" data-background="">
+                  <div class="swiper-lazy-preloader"></div>
+                </div>
               </div>
             </div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
           </div>
@@ -155,7 +113,7 @@
                         <div class="elementor-element elementor-element-916b144 elementor-align-justify elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="916b144" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a class="elementor-button elementor-button-link elementor-size-lg" href="#contact">
+                              <a class="elementor-button elementor-button-link elementor-size-lg" href="https://fivestarformwork.in/contact/">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-text">Contact Us</span>
                                 </span>
@@ -166,7 +124,7 @@
                         <div class="elementor-element elementor-element-6148cad elementor-align-justify elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="6148cad" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a class="elementor-button elementor-button-link elementor-size-lg" href="#about">
+                              <a class="elementor-button elementor-button-link elementor-size-lg" href="https://fivestarformwork.in/about">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-text">About Us</span>
                                 </span>
@@ -239,7 +197,7 @@
                         <div class="elementor-element elementor-element-513cc61 elementor-align-center elementor-widget elementor-widget-button" data-id="513cc61" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a class="elementor-button elementor-button-link elementor-size-xs" href="#about">
+                              <a class="elementor-button elementor-button-link elementor-size-xs" href="https://fivestarformwork.in/about">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-text">Learn more</span>
                                 </span>
@@ -270,7 +228,7 @@
                         <div class="elementor-element elementor-element-ac09494 elementor-align-center elementor-widget elementor-widget-button" data-id="ac09494" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a class="elementor-button elementor-button-link elementor-size-xs" href="#about">
+                              <a class="elementor-button elementor-button-link elementor-size-xs" href="https://fivestarformwork.in/about">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-text">Learn more</span>
                                 </span>
@@ -301,7 +259,7 @@
                         <div class="elementor-element elementor-element-4afe06f elementor-align-center elementor-widget elementor-widget-button" data-id="4afe06f" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a class="elementor-button elementor-button-link elementor-size-xs" href="#about">
+                              <a class="elementor-button elementor-button-link elementor-size-xs" href="https://fivestarformwork.in/about">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-text">Learn more</span>
                                 </span>
@@ -319,7 +277,7 @@
         </section>
         <section class="elementor-section elementor-top-section elementor-element elementor-element-9051870 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9051870" data-element_type="section">
           <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6dc0ebc elementor-invisible" data-id="6dc0ebc" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6dc0ebc animated fadeInLeft" data-id="6dc0ebc" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
               <div class="elementor-widget-wrap elementor-element-populated">
                 <div class="elementor-element elementor-element-83387ef elementor-widget elementor-widget-heading" data-id="83387ef" data-element_type="widget" data-widget_type="heading.default">
                   <div class="elementor-widget-container">
@@ -339,7 +297,7 @@
                 <div class="elementor-element elementor-element-0a37d7c elementor-widget elementor-widget-button" data-id="0a37d7c" data-element_type="widget" data-widget_type="button.default">
                   <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-                      <a class="elementor-button elementor-button-link elementor-size-md" href="#about">
+                      <a class="elementor-button elementor-button-link elementor-size-md" href="https://fivestarformwork.in/about">
                         <span class="elementor-button-content-wrapper">
                           <span class="elementor-button-text">Discover more</span>
                         </span>
@@ -351,12 +309,12 @@
             </div>
             <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-eae93a5" data-id="eae93a5" data-element_type="column">
               <div class="elementor-widget-wrap elementor-element-populated">
-                <div class="elementor-element elementor-element-d5bf146 elementor-invisible elementor-widget elementor-widget-image" data-id="d5bf146" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
+                <div class="elementor-element elementor-element-d5bf146 elementor-widget elementor-widget-image animated fadeInRight" data-id="d5bf146" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
                   <div class="elementor-widget-container">
-                    <img decoding="async" width="1440" height="1080" src="my_image" class="attachment-full size-full wp-image-134" alt="" srcset="my_images" sizes="(max-width: 1440px) 100vw, 1440px">
+
                   </div>
                 </div>
-                <div class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-invisible elementor-widget elementor-widget-icon-box" data-id="f025239" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;bounceIn&quot;}" data-widget_type="icon-box.default">
+                <div class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box animated bounceIn" data-id="f025239" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;bounceIn&quot;}" data-widget_type="icon-box.default">
                   <div class="elementor-widget-container">
                     <div class="elementor-icon-box-wrapper">
                       <div class="elementor-icon-box-icon">
@@ -414,7 +372,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_images);" role="img" aria-label="alu_img"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url();" role="img" aria-label="alu_img"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -433,7 +391,7 @@
                                   <br> <br>
                                 </div>
                                 <div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
-                                  <a class="elementor-cta__button elementor-button elementor-size-xs" href="#about">
+                                  <a class="elementor-cta__button elementor-button elementor-size-xs" href="https://fivestarformwork.in/about">
                                     Learn more </a>
                                 </div>
                               </div>
@@ -448,7 +406,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_image);" role="img" aria-label="71569-17829493"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url();" role="img" aria-label="71569-17829493"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -466,7 +424,7 @@
                                   skilled labour when this is in short supply.
                                   On leaving the factory all panels are clearly labelled to ensure that they are easily identifiable on site.</div>
                                 <div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
-                                  <a class="elementor-cta__button elementor-button elementor-size-xs" href="#about">
+                                  <a class="elementor-cta__button elementor-button elementor-size-xs" href="https://fivestarformwork.in/about">
                                     Learn more </a>
                                 </div>
                               </div>
@@ -511,7 +469,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_iamge);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.25.40 PM (1)"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url();" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.25.40 PM (1)"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -534,7 +492,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_image);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.26.44 PM"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url();" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.26.44 PM"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -557,7 +515,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_image);" role="img" aria-label="beam-side-panel"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url();" role="img" aria-label="beam-side-panel"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -580,7 +538,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_images);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.27.07 PM"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url();" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.27.07 PM"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -607,7 +565,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_image);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.24.09 PM"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(https://fivestarformwork.in/wp-content/uploads/2023/09/WhatsApp-Image-2023-08-29-at-6.24.09-PM.jpeg);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.24.09 PM"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -630,7 +588,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_iamge);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.32.18 PM"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(https://fivestarformwork.in/wp-content/uploads/2023/09/WhatsApp-Image-2023-08-29-at-6.32.18-PM.jpeg);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.32.18 PM"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -653,7 +611,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_image);" role="img" aria-label="slab-corner"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(https://fivestarformwork.in/wp-content/uploads/2023/09/slab-corner.jpg);" role="img" aria-label="slab-corner"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -676,7 +634,7 @@
                           <div class="elementor-widget-container">
                             <div class="elementor-cta">
                               <div class="elementor-cta__bg-wrapper">
-                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(my_im);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.24.32 PM"></div>
+                                <div class="elementor-cta__bg elementor-bg" style="background-image: url(https://fivestarformwork.in/wp-content/uploads/2023/09/WhatsApp-Image-2023-08-29-at-6.24.32-PM.jpeg);" role="img" aria-label="WhatsApp Image 2023-08-29 at 6.24.32 PM"></div>
                                 <div class="elementor-cta__bg-overlay"></div>
                               </div>
                               <div class="elementor-cta__content">
@@ -698,7 +656,7 @@
                 <div class="elementor-element elementor-element-d2700bb elementor-align-center elementor-widget elementor-widget-button" data-id="d2700bb" data-element_type="widget" data-widget_type="button.default">
                   <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-                      <a class="elementor-button elementor-button-link elementor-size-md" href="#products">
+                      <a class="elementor-button elementor-button-link elementor-size-md" href="https://fivestarformwork.in/products/">
                         <span class="elementor-button-content-wrapper">
                           <span class="elementor-button-text">See All Products</span>
                         </span>
@@ -731,7 +689,7 @@
                 </div>
                 <div class="elementor-element elementor-element-48f0b4c elementor-widget elementor-widget-image" data-id="48f0b4c" data-element_type="widget" data-widget_type="image.default">
                   <div class="elementor-widget-container">
-                    <img decoding="async" width="1024" height="768" src="my_im" class="attachment-full size-full wp-image-306" alt="" srcset="my_im" sizes="(max-width: 1024px) 100vw, 1024px">
+                    <img decoding="async" width="1024" height="768" src="https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png" class="attachment-full size-full wp-image-306" alt="" srcset="https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png 1024w, https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-300x225.png 300w, https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">
                   </div>
                 </div>
               </div>
@@ -861,7 +819,7 @@
                         <div class="elementor-element elementor-element-f186d53 elementor-align-center elementor-widget elementor-widget-button" data-id="f186d53" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a class="elementor-button elementor-button-link elementor-size-md" href="#about">
+                              <a class="elementor-button elementor-button-link elementor-size-md" href="https://fivestarformwork.in/about">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-text">Discover more</span>
                                 </span>
@@ -902,7 +860,7 @@
                         </div>
                         <div class="elementor-element elementor-element-c26c80f elementor-widget elementor-widget-heading" data-id="c26c80f" data-element_type="widget" data-widget_type="heading.default">
                           <div class="elementor-widget-container">
-                            <h4 class="elementor-heading-title elementor-size-default">info@.in</h4>
+                            <h4 class="elementor-heading-title elementor-size-default">info@fivestarformwork.in</h4>
                           </div>
                         </div>
                         <div class="elementor-element elementor-element-e3d479f elementor-widget elementor-widget-heading" data-id="e3d479f" data-element_type="widget" data-widget_type="heading.default">
@@ -913,7 +871,7 @@
                         <div class="elementor-element elementor-element-93e23d6 elementor-widget elementor-widget-button" data-id="93e23d6" data-element_type="widget" data-widget_type="button.default">
                           <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                              <a class="elementor-button elementor-button-link elementor-size-md" href="#contact">
+                              <a class="elementor-button elementor-button-link elementor-size-md" href="https://fivestarformwork.in/contact/">
                                 <span class="elementor-button-content-wrapper">
                                   <span class="elementor-button-icon">
                                     <i aria-hidden="true" class="mdi mdi-message-processing-outline"></i> </span>
@@ -1015,9 +973,9 @@
                 <div class="elementor-element elementor-element-45937ef elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-testimonial--align-center elementor-pagination-type-bullets elementor-invisible elementor-widget elementor-widget-testimonial-carousel e-widget-swiper" data-id="45937ef" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;3&quot;,&quot;slides_per_view_tablet&quot;:&quot;2&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;1&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
                   <div class="elementor-widget-container">
                     <div class="elementor-swiper">
-                      <div class="elementor-main-swiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-                        <div class="swiper-wrapper" style="cursor: grab; transition-duration: 0ms; transform: translate3d(-2191.67px, 0px, 0px);" id="swiper-wrapper-a7c7bff0e96f13ab" aria-live="off">
-                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="2 / 4">
+                      <div class="elementor-main-swiper swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                        <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-1720px, 0px, 0px);" id="swiper-wrapper-2895a79309a85d24" aria-live="off">
+                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" style="width: 420px; margin-right: 10px;" role="group" aria-label="2 / 4" data-swiper-slide-index="1">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1028,7 +986,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="3 / 4">
+                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" style="width: 420px; margin-right: 10px;" role="group" aria-label="3 / 4" data-swiper-slide-index="2">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1039,7 +997,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="3" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="4 / 4">
+                          <div class="swiper-slide swiper-slide-duplicate" style="width: 420px; margin-right: 10px;" role="group" aria-label="4 / 4" data-swiper-slide-index="3">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1050,7 +1008,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide" data-swiper-slide-index="0" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="1 / 4">
+                          <div class="swiper-slide swiper-slide-prev" style="width: 420px; margin-right: 10px;" role="group" aria-label="1 / 4" data-swiper-slide-index="0">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1061,7 +1019,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="1" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="2 / 4">
+                          <div class="swiper-slide swiper-slide-active" style="width: 420px; margin-right: 10px;" role="group" aria-label="2 / 4" data-swiper-slide-index="1">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1072,7 +1030,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="2" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="3 / 4">
+                          <div class="swiper-slide swiper-slide-next" style="width: 420px; margin-right: 10px;" role="group" aria-label="3 / 4" data-swiper-slide-index="2">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1083,7 +1041,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="3" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="4 / 4">
+                          <div class="swiper-slide" style="width: 420px; margin-right: 10px;" role="group" aria-label="4 / 4" data-swiper-slide-index="3">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1094,7 +1052,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="1 / 4">
+                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" style="width: 420px; margin-right: 10px;" role="group" aria-label="1 / 4" data-swiper-slide-index="0">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1105,7 +1063,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="2 / 4">
+                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" style="width: 420px; margin-right: 10px;" role="group" aria-label="2 / 4" data-swiper-slide-index="1">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1116,7 +1074,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="3 / 4">
+                          <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" style="width: 420px; margin-right: 10px;" role="group" aria-label="3 / 4" data-swiper-slide-index="2">
                             <div class="elementor-testimonial">
                               <div class="elementor-testimonial__content">
                                 <div class="elementor-testimonial__text">
@@ -1128,7 +1086,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 3" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                        <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                       </div>
                     </div>
                   </div>
@@ -1174,7 +1132,7 @@
                               <i class="fab fa-facebook-f"></i> </a>
                           </span>
                           <span class="elementor-grid-item">
-                            <a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-9b09f7b" href="https://www.instagram.com//" target="_blank">
+                            <a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-9b09f7b" href="https://www.instagram.com/fivestarformwork/" target="_blank">
                               <span class="elementor-screen-only">Instagram</span>
                               <i class="fab fa-instagram"></i> </a>
                           </span>
@@ -1191,7 +1149,7 @@
                   <div class="elementor-widget-wrap elementor-element-populated">
                     <div class="elementor-element elementor-element-64e0884 elementor-widget elementor-widget-image" data-id="64e0884" data-element_type="widget" data-widget_type="image.default">
                       <div class="elementor-widget-container">
-                        <img width="800" height="393" src="my_im" class="attachment-large size-large wp-image-422" alt="" srcset="my_im" sizes="(max-width: 800px) 100vw, 800px">
+                        <img width="800" height="393" src="https://fivestarformwork.in/wp-content/uploads/2023/08/Five-Star-Fromwork-1024x503.webp" class="attachment-large size-large wp-image-422" alt="" srcset="https://fivestarformwork.in/wp-content/uploads/2023/08/Five-Star-Fromwork-1024x503.webp 1024w, https://fivestarformwork.in/wp-content/uploads/2023/08/Five-Star-Fromwork-300x147.webp 300w, https://fivestarformwork.in/wp-content/uploads/2023/08/Five-Star-Fromwork-768x378.webp 768w, https://fivestarformwork.in/wp-content/uploads/2023/08/Five-Star-Fromwork-1536x755.webp 1536w, https://fivestarformwork.in/wp-content/uploads/2023/08/Five-Star-Fromwork.webp 1538w" sizes="(max-width: 800px) 100vw, 800px">
                       </div>
                     </div>
                     <div class="elementor-element elementor-element-80bf7b9 elementor-widget elementor-widget-text-editor" data-id="80bf7b9" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1212,39 +1170,39 @@
                       <div class="elementor-widget-container">
                         <ul class="elementor-icon-list-items">
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Wall Panel</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Wall Panel</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Rocker</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Rocker</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Slab Panel</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Slab Panel</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Kicker</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Kicker</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Beam Side Panel</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Beam Side Panel</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Beam Bottom panel</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Beam Bottom panel</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Slab Corner</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Slab Corner</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Internal Slab Corner</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Internal Slab Corner</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">External Slab Corner</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">External Slab Corner</span>
                             </a>
                           </li>
                         </ul>
@@ -1254,39 +1212,39 @@
                       <div class="elementor-widget-container">
                         <ul class="elementor-icon-list-items">
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">External Corner</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">External Corner</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Internal Corner</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Internal Corner</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Stub Pin</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Stub Pin</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Wall Tie</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Wall Tie</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">PVC Sleeve</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">PVC Sleeve</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Adjustable prop</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Adjustable prop</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Wall and Slab platform</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Wall and Slab platform</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Alignment Bracket</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Alignment Bracket</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-text">Tie Rod Bracket</span>
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-text">Tie Rod Bracket</span>
                             </a>
                           </li>
                         </ul>
@@ -1311,25 +1269,25 @@
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#about"><span class="elementor-icon-list-icon">
+                            <a href="https://fivestarformwork.in/about/"><span class="elementor-icon-list-icon">
                                 <i aria-hidden="true" class="fas fa-arrow-alt-circle-right"></i> </span>
                               <span class="elementor-icon-list-text">About Us</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#products"><span class="elementor-icon-list-icon">
+                            <a href="https://fivestarformwork.in/products/"><span class="elementor-icon-list-icon">
                                 <i aria-hidden="true" class="fas fa-arrow-alt-circle-right"></i> </span>
                               <span class="elementor-icon-list-text">Our Products</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#services"><span class="elementor-icon-list-icon">
+                            <a href="https://fivestarformwork.in/services/"><span class="elementor-icon-list-icon">
                                 <i aria-hidden="true" class="fas fa-arrow-alt-circle-right"></i> </span>
                               <span class="elementor-icon-list-text">Our Services</span>
                             </a>
                           </li>
                           <li class="elementor-icon-list-item">
-                            <a href="#contact"><span class="elementor-icon-list-icon">
+                            <a href="https://fivestarformwork.in/contact/"><span class="elementor-icon-list-icon">
                                 <i aria-hidden="true" class="fas fa-arrow-alt-circle-right"></i> </span>
                               <span class="elementor-icon-list-text">Contact Us</span>
                             </a>
@@ -1357,7 +1315,7 @@
                           <li class="elementor-icon-list-item">
                             <span class="elementor-icon-list-icon">
                               <i aria-hidden="true" class="fas fa-envelope"></i> </span>
-                            <span class="elementor-icon-list-text">info@.in</span>
+                            <span class="elementor-icon-list-text">info@fivestarformwork.in</span>
                           </li>
                           <li class="elementor-icon-list-item">
                             <span class="elementor-icon-list-icon">
@@ -1389,192 +1347,7 @@
       </div>
     </section>
   </div>
-  <script type="speculationrules">{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}</script>
-  <script type="text/javascript" src="" defer="">
-    const lazyloadRunObserver = () => {
-      const lazyloadBackgrounds = document.querySelectorAll(`.e-con.e-parent:not(.e-lazyloaded)`);
-      const lazyloadBackgroundObserver = new IntersectionObserver((entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            let lazyloadBackground = entry.target;
-            if (lazyloadBackground) {
-              lazyloadBackground.classList.add('e-lazyloaded')
-            }
-            lazyloadBackgroundObserver.unobserve(entry.target)
-          }
-        })
-      }, {
-        rootMargin: '200px 0px 200px 0px'
-      });
-      lazyloadBackgrounds.forEach((lazyloadBackground) => {
-        lazyloadBackgroundObserver.observe(lazyloadBackground)
-      })
-    };
-    const events = ['DOMContentLoaded', 'elementor/lazyload/observe', ];
-    events.forEach((event) => {
-      document.addEventListener(event, lazyloadRunObserver)
-    })
-  </script>
-  <script src="assets/js/index1.js"></script>
-  <script src="assets/js/index2.js"></script>
-  <script src="assets/js/index3.js"></script>
 
-
-  <script>
-    var elementskit = {
-      resturl: '',
-    }
-  </script>
-
-
-  <script>
-    wp.i18n.setLocaleData({
-      'text direction\u0004ltr': ['ltr']
-    })
-  </script>
-  
-  <!-- <script src="assets/js/index4.js"></script> -->
-  <!-- <script src="assets/js/index5.js"></script> -->
-  <script>
-    var elementorFrontendConfig = {
-      "environmentMode": {
-        "edit": !1,
-        "wpPreview": !1,
-        "isScriptDebug": !1
-      },
-      "i18n": {
-        "shareOnFacebook": "Share on Facebook",
-        "shareOnTwitter": "Share on Twitter",
-        "pinIt": "Pin it",
-        "download": "Download",
-        "downloadImage": "Download image",
-        "fullscreen": "Fullscreen",
-        "zoom": "Zoom",
-        "share": "Share",
-        "playVideo": "Play Video",
-        "previous": "Previous",
-        "next": "Next",
-        "close": "Close",
-        "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right",
-        "a11yCarouselPrevSlideMessage": "Previous slide",
-        "a11yCarouselNextSlideMessage": "Next slide",
-        "a11yCarouselFirstSlideMessage": "This is the first slide",
-        "a11yCarouselLastSlideMessage": "This is the last slide",
-        "a11yCarouselPaginationBulletMessage": "Go to slide"
-      },
-      "is_rtl": !1,
-      "breakpoints": {
-        "xs": 0,
-        "sm": 480,
-        "md": 768,
-        "lg": 1025,
-        "xl": 1440,
-        "xxl": 1600
-      },
-      "responsive": {
-        "breakpoints": {
-          "mobile": {
-            "label": "Mobile Portrait",
-            "value": 767,
-            "default_value": 767,
-            "direction": "max",
-            "is_enabled": !0
-          },
-          "mobile_extra": {
-            "label": "Mobile Landscape",
-            "value": 880,
-            "default_value": 880,
-            "direction": "max",
-            "is_enabled": !1
-          },
-          "tablet": {
-            "label": "Tablet Portrait",
-            "value": 1024,
-            "default_value": 1024,
-            "direction": "max",
-            "is_enabled": !0
-          },
-          "tablet_extra": {
-            "label": "Tablet Landscape",
-            "value": 1200,
-            "default_value": 1200,
-            "direction": "max",
-            "is_enabled": !1
-          },
-          "laptop": {
-            "label": "Laptop",
-            "value": 1366,
-            "default_value": 1366,
-            "direction": "max",
-            "is_enabled": !1
-          },
-          "widescreen": {
-            "label": "Widescreen",
-            "value": 2400,
-            "default_value": 2400,
-            "direction": "min",
-            "is_enabled": !1
-          }
-        },
-        "hasCustomBreakpoints": !1
-      },
-      "version": "3.25.3",
-      "is_static": !1,
-      "experimentalFeatures": {
-        "additional_custom_breakpoints": !0,
-        "e_swiper_latest": !0,
-        "e_nested_atomic_repeaters": !0,
-        "e_optimized_control_loading": !0,
-        "e_onboarding": !0,
-        "e_css_smooth_scroll": !0,
-        "theme_builder_v2": !0,
-        "hello-theme-header-footer": !0,
-        "home_screen": !0,
-        "landing-pages": !0,
-        "nested-elements": !0,
-        "editor_v2": !0,
-        "link-in-bio": !0,
-        "floating-buttons": !0
-      },
-      "urls": {
-        
-      },
-      "nonces": {
-        "floatingButtonsClickTracking": "bf2764d6d7"
-      },
-      "swiperClass": "swiper",
-      "settings": {
-        "page": [],
-        "editorPreferences": []
-      },
-      "kit": {
-        "body_background_background": "classic",
-        "active_breakpoints": ["viewport_mobile", "viewport_tablet"],
-        "global_image_lightbox": "yes",
-        "lightbox_enable_counter": "yes",
-        "lightbox_enable_fullscreen": "yes",
-        "lightbox_enable_zoom": "yes",
-        "lightbox_enable_share": "yes",
-        "lightbox_title_src": "title",
-        "lightbox_description_src": "description",
-        "hello_header_logo_type": "title",
-        "hello_header_menu_layout": "horizontal",
-        "hello_footer_logo_type": "logo"
-      },
-      "post": {
-        "id": 97,
-        "title": "Five%20Star%20Formwork%20%E2%80%93%20Best%20Formwork%20Solutions",
-        "excerpt": "",
-        "featuredImage": !1
-      }
-    }
-  </script>
-  <script src="assets/js/index6.js"></script>
-  <!-- <script src="assets/js/index7.js"></script> -->
-  <!-- <script src="assets/js/index8.js"></script> -->
-
-  <span id="elementor-device-mode" class="elementor-screen-only"></span><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
-  <script src="assets/js/swiper.min.js"></script>
 </body>
 
 </html>
