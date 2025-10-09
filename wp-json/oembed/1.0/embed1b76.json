@@ -1,0 +1,1 @@
+{"code":"rest_api_authentication_required","message":"The REST API has been restricted to authenticated users.","data":{"status":401}}

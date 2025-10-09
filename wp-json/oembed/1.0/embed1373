@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<oembed><code>rest_api_authentication_required</code><message>The REST API has been restricted to authenticated users.</message><data><status>401</status></data></oembed>
