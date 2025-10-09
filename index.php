@@ -389,8 +389,8 @@
 	<script type="litespeed/javascript" data-src="wp-includes/js/jquery/jquery.min.js"
 		id="jquery-core-js"></script>
 	<meta name="generator" content="WordPress 6.8.2" />
-	<link rel="canonical" href="index.html" />
-	<link rel='shortlink' href='index.html' />
+	<link rel="canonical" href="index" />
+	<link rel='shortlink' href='index' />
 	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
 		href="wp-json/oembed/1.0/embed67bf.json" />
 	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
@@ -473,7 +473,7 @@
 													<ul id="menu-1-7bdcc948" class="elementor-nav-menu">
 														<li
 															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-155">
-															<a href="index.html" aria-current="page"
+															<a href="index" aria-current="page"
 																class="elementor-item elementor-item-active">Home</a>
 														</li>
 														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a
@@ -497,7 +497,7 @@
 													<ul id="menu-2-7bdcc948" class="elementor-nav-menu">
 														<li
 															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-155">
-															<a href="index.html" aria-current="page" class="elementor-item elementor-item-active"
+															<a href="index" aria-current="page" class="elementor-item elementor-item-active"
 																tabindex="-1">Home</a>
 														</li>
 														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a
@@ -700,7 +700,7 @@
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
 															<!-- <a class="elementor-button elementor-button-link elementor-size-xs"
-																href="about/index.html">
+																href="about/index">
 																<span class="elementor-button-content-wrapper">
 																	<span class="elementor-button-text">Learn more</span>
 																</span>
@@ -739,7 +739,7 @@
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
 															<!-- <a class="elementor-button elementor-button-link elementor-size-xs"
-																href="about/index.html">
+																href="about/index">
 																<span class="elementor-button-content-wrapper">
 																	<span class="elementor-button-text">Learn more</span>
 																</span>
@@ -827,7 +827,7 @@
 									data-id="0a37d7c" data-element_type="widget" data-widget_type="button.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-button-wrapper">
-											<!-- <a class="elementor-button elementor-button-link elementor-size-md" href="about/index.html">
+											<!-- <a class="elementor-button elementor-button-link elementor-size-md" href="about/index">
 												<span class="elementor-button-content-wrapper">
 													<span class="elementor-button-text">Discover more</span>
 												</span>
@@ -1202,7 +1202,7 @@
 																<!-- <div
 																	class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
 																	<a class="elementor-cta__button elementor-button elementor-size-xs"
-																		href="about/index.html">
+																		href="about/index">
 																		Learn more </a>
 																</div> -->
 															</div>
@@ -1252,7 +1252,7 @@
 																<!-- <div
 																	class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
 																	<a class="elementor-cta__button elementor-button elementor-size-xs"
-																		href="about/index.html">
+																		href="about/index">
 																		Learn more </a>
 																</div> -->
 															</div>
@@ -2295,7 +2295,7 @@
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
 															<!-- <a class="elementor-button elementor-button-link elementor-size-md"
-																href="about/index.html">
+																href="about/index">
 																<span class="elementor-button-content-wrapper">
 																	<span class="elementor-button-text">Discover more</span>
 																</span>
@@ -2372,7 +2372,7 @@
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
 															<!-- <a class="elementor-button elementor-button-link elementor-size-md"
-																href="contact/index.html">
+																href="contact/index">
 																<span class="elementor-button-content-wrapper">
 																	<span class="elementor-button-icon">
 																		<i aria-hidden="true" class="mdi mdi-message-processing-outline"></i> </span>
