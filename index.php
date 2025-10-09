@@ -547,7 +547,7 @@
 				<section
 					class="elementor-section elementor-top-section elementor-element elementor-element-5f15e24 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
 					data-id="5f15e24" data-element_type="section"
-					data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:304,&quot;url&quot;:&quot;https:\/\/fivestarformwork.in\/wp-content\/uploads\/2023\/09\/alu_img.png&quot;},{&quot;id&quot;:305,&quot;url&quot;:&quot;https:\/\/fivestarformwork.in\/wp-content\/uploads\/2023\/09\/Alu-form.png&quot;},{&quot;id&quot;:306,&quot;url&quot;:&quot;https:\/\/fivestarformwork.in\/wp-content\/uploads\/2023\/09\/aluminum-concrete-formwork-2-1024x768-1.png&quot;}],&quot;background_slideshow_lazyload&quot;:&quot;yes&quot;,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+					data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:304,&quot;url&quot;:&quot;wp-content\/uploads\/2023\/09\/alu_img.png&quot;},{&quot;id&quot;:305,&quot;url&quot;:&quot;wp-content\/uploads\/2023\/09\/Alu-form.png&quot;},{&quot;id&quot;:306,&quot;url&quot;:&quot;wp-content\/uploads\/2023\/09\/aluminum-concrete-formwork-2-1024x768-1.png&quot;}],&quot;background_slideshow_lazyload&quot;:&quot;yes&quot;,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
 					<div class="elementor-background-overlay"></div>
 					<div class="elementor-container elementor-column-gap-default">
 						<div
@@ -797,8 +797,7 @@
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-9051870 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
 					data-id="9051870" data-element_type="section" id="about-us">
 					<div class="elementor-container elementor-column-gap-default">
-						<div
-							class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6dc0ebc elementor-invisible"
+						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6dc0ebc elementor-invisible"
 							data-id="6dc0ebc" data-element_type="column"
 							data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
@@ -856,8 +855,7 @@
 											data-sizes="(max-width: 1440px) 100vw, 1440px" />
 									</div>
 								</div>
-								<div
-									class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-invisible elementor-widget elementor-widget-icon-box"
+								<div class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-invisible elementor-widget elementor-widget-icon-box"
 									data-id="f025239" data-element_type="widget"
 									data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;bounceIn&quot;}"
 									data-widget_type="icon-box.default">
@@ -885,7 +883,7 @@
 
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-8372fff elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="Aluminum_Formwork_Features" data-id="8372fff" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" style="background-color: #1d323f;">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c0016b animated fadeInLeft" data-id="0c0016b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c0016b animated fadeInLeft" data-id="0c0016b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-background-overlay"></div>
 								<div class="elementor-element elementor-element-5e11cda elementor-widget elementor-widget-heading" data-id="5e11cda" data-element_type="widget" data-widget_type="heading.default">
@@ -1956,7 +1954,7 @@
 								<div class="elementor-element elementor-element-3bd0843 elementor-widget elementor-widget-button" data-id="3bd0843" data-element_type="widget" data-widget_type="button.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-button-wrapper">
-											<!-- <a class="elementor-button elementor-button-link elementor-size-md" href="https://fivestarformwork.in/contact">
+											<!-- <a class="elementor-button elementor-button-link elementor-size-md" href="contact">
 												<span class="elementor-button-content-wrapper">
 													<span class="elementor-button-icon">
 														<i aria-hidden="true" class="mdi mdi-message-processing-outline"></i> </span>
@@ -2357,8 +2355,7 @@
 													data-id="c26c80f" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
 														<h4 class="elementor-heading-title elementor-size-default"><a
-																href="cdn-cgi/l/email-protection.html" class="__cf_email__"
-																data-cfemail="147d7a727b54727d627167607566727b6679637b667f3a7d7a">[email&#160;protected]</a>
+																href="mailto:info@gbsformworksystems.com" class="__cf_email__">info@gbsformworksystems.com</a>
 														</h4>
 													</div>
 												</div>
@@ -2366,7 +2363,7 @@
 													class="elementor-element elementor-element-e3d479f elementor-widget elementor-widget-heading"
 													data-id="e3d479f" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
-														<h4 class="elementor-heading-title elementor-size-default">+917454003909</h4>
+														<h4 class="elementor-heading-title elementor-size-default">+917039924904</h4>
 													</div>
 												</div>
 												<div
@@ -2655,7 +2652,7 @@
 													</span>
 													<span class="elementor-grid-item">
 														<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-float elementor-repeater-item-9b09f7b"
-															href="https://www.instagram.com/fivestarformwork/" target="_blank">
+															href="https://www.instagram.com//" target="_blank">
 															<span class="elementor-screen-only">Instagram</span>
 															<i class="fab fa-instagram"></i> </a>
 													</span>
@@ -2877,7 +2874,7 @@
 															<i aria-hidden="true" class="fas fa-envelope"></i> </span>
 														<span class="elementor-icon-list-text"><a href="mailto:info@gbsformworksystems.com"
 																class="__cf_email__"
-																style="color:white;" >info@gbsformworksystems.com</a></span>
+																style="color:white;">info@gbsformworksystems.com</a></span>
 													</li>
 													<li class="elementor-icon-list-item">
 														<span class="elementor-icon-list-icon">
@@ -2903,9 +2900,7 @@
 											class="elementor-element elementor-element-3d804ad elementor-widget elementor-widget-text-editor"
 											data-id="3d804ad" data-element_type="widget" data-widget_type="text-editor.default">
 											<div class="elementor-widget-container">
-												<p><strong>Designed &amp; Hosted By </strong><span style="color: #ffff00;"><a
-															style="color: #ffff00;"
-															href="https://codebitel.com/"><strong>CodeBitel™</strong></a></span></p>
+
 											</div>
 										</div>
 									</div>
@@ -2938,11 +2933,240 @@
 	<script id="wp-i18n-js-after"
 		type="litespeed/javascript">wp.i18n.setLocaleData({'text direction\u0004ltr':['ltr']})</script>
 	<script id="elementor-pro-frontend-js-before" type="litespeed/javascript">
-		var ElementorProFrontendConfig={"ajaxurl":"https:\/\/fivestarformwork.in\/wp-admin\/admin-ajax.php","nonce":"12921df0c7","urls":{"assets":"https:\/\/fivestarformwork.in\/wp-content\/plugins\/pro-elements\/assets\/","rest":"https:\/\/fivestarformwork.in\/wp-json\/"},"settings":{"lazy_load_background_images":!0},"popup":{"hasPopUps":!1},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":!0},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":!0},"pinterest":{"title":"Pinterest","has_counter":!0},"reddit":{"title":"Reddit","has_counter":!0},"vk":{"title":"VK","has_counter":!0},"odnoklassniki":{"title":"OK","has_counter":!0},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":!0},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":!0},"xing":{"title":"XING","has_counter":!0},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/fivestarformwork.in\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}}</script>
+		var ElementorProFrontendConfig = {
+        "ajaxurl": "wp-admin/admin-ajax.php",
+        "nonce": "12921df0c7",
+        "urls": {
+            "assets": "wp-content\/plugins\/pro-elements\/assets\/",
+            "rest": "wp-json\/"
+        },
+        "settings": {
+            "lazy_load_background_images": true
+        },
+        "popup": {
+            "hasPopUps": false
+        },
+        "shareButtonsNetworks": {
+            "facebook": {
+                "title": "Facebook",
+                "has_counter": true
+            },
+            "twitter": {
+                "title": "Twitter"
+            },
+            "linkedin": {
+                "title": "LinkedIn",
+                "has_counter": true
+            },
+            "pinterest": {
+                "title": "Pinterest",
+                "has_counter": true
+            },
+            "reddit": {
+                "title": "Reddit",
+                "has_counter": true
+            },
+            "vk": {
+                "title": "VK",
+                "has_counter": true
+            },
+            "odnoklassniki": {
+                "title": "OK",
+                "has_counter": true
+            },
+            "tumblr": {
+                "title": "Tumblr"
+            },
+            "digg": {
+                "title": "Digg"
+            },
+            "skype": {
+                "title": "Skype"
+            },
+            "stumbleupon": {
+                "title": "StumbleUpon",
+                "has_counter": true
+            },
+            "mix": {
+                "title": "Mix"
+            },
+            "telegram": {
+                "title": "Telegram"
+            },
+            "pocket": {
+                "title": "Pocket",
+                "has_counter": true
+            },
+            "xing": {
+                "title": "XING",
+                "has_counter": true
+            },
+            "whatsapp": {
+                "title": "WhatsApp"
+            },
+            "email": {
+                "title": "Email"
+            },
+            "print": {
+                "title": "Print"
+            },
+            "x-twitter": {
+                "title": "X"
+            },
+            "threads": {
+                "title": "Threads"
+            }
+        },
+        "facebook_sdk": {
+            "lang": "en_US",
+            "app_id": ""
+        },
+        "lottie": {
+            "defaultAnimationUrl": "wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"
+        }
+    };
+</script>
 	<script id="elementor-frontend-js-before" type="litespeed/javascript">
-		var elementorFrontendConfig={"environmentMode":{"edit":!1,"wpPreview":!1,"isScriptDebug":!1},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":!1,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":!0},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":!1},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":!0},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":!1},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":!1},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":!1}},"hasCustomBreakpoints":!1},"version":"3.25.3","is_static":!1,"experimentalFeatures":{"additional_custom_breakpoints":!0,"e_swiper_latest":!0,"e_nested_atomic_repeaters":!0,"e_optimized_control_loading":!0,"e_onboarding":!0,"e_css_smooth_scroll":!0,"theme_builder_v2":!0,"hello-theme-header-footer":!0,"home_screen":!0,"landing-pages":!0,"nested-elements":!0,"editor_v2":!0,"link-in-bio":!0,"floating-buttons":!0},"urls":{"assets":"https:\/\/fivestarformwork.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/fivestarformwork.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/fivestarformwork.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"d05fcf399c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":97,"title":"Five%20Star%20Formwork%20%E2%80%93%20Best%20Formwork%20Solutions","excerpt":"","featuredImage":!1}}</script>
-	<script id="elementskit-elementor-js-extra"
-		type="litespeed/javascript">var ekit_config={"ajaxurl":"https:\/\/fivestarformwork.in\/wp-admin\/admin-ajax.php","nonce":"07e28b453d"}</script>
+		var elementorFrontendConfig = {
+        "environmentMode": {
+            "edit": false,
+            "wpPreview": false,
+            "isScriptDebug": false
+        },
+        "i18n": {
+            "shareOnFacebook": "Share on Facebook",
+            "shareOnTwitter": "Share on Twitter",
+            "pinIt": "Pin it",
+            "download": "Download",
+            "downloadImage": "Download image",
+            "fullscreen": "Fullscreen",
+            "zoom": "Zoom",
+            "share": "Share",
+            "playVideo": "Play Video",
+            "previous": "Previous",
+            "next": "Next",
+            "close": "Close",
+            "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right",
+            "a11yCarouselPrevSlideMessage": "Previous slide",
+            "a11yCarouselNextSlideMessage": "Next slide",
+            "a11yCarouselFirstSlideMessage": "This is the first slide",
+            "a11yCarouselLastSlideMessage": "This is the last slide",
+            "a11yCarouselPaginationBulletMessage": "Go to slide"
+        },
+        "is_rtl": false,
+        "breakpoints": {
+            "xs": 0,
+            "sm": 480,
+            "md": 768,
+            "lg": 1025,
+            "xl": 1440,
+            "xxl": 1600
+        },
+        "responsive": {
+            "breakpoints": {
+                "mobile": {
+                    "label": "Mobile Portrait",
+                    "value": 767,
+                    "default_value": 767,
+                    "direction": "max",
+                    "is_enabled": true
+                },
+                "mobile_extra": {
+                    "label": "Mobile Landscape",
+                    "value": 880,
+                    "default_value": 880,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "tablet": {
+                    "label": "Tablet Portrait",
+                    "value": 1024,
+                    "default_value": 1024,
+                    "direction": "max",
+                    "is_enabled": true
+                },
+                "tablet_extra": {
+                    "label": "Tablet Landscape",
+                    "value": 1200,
+                    "default_value": 1200,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "laptop": {
+                    "label": "Laptop",
+                    "value": 1366,
+                    "default_value": 1366,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "widescreen": {
+                    "label": "Widescreen",
+                    "value": 2400,
+                    "default_value": 2400,
+                    "direction": "min",
+                    "is_enabled": false
+                }
+            },
+            "hasCustomBreakpoints": false
+        },
+        "version": "3.25.3",
+        "is_static": false,
+        "experimentalFeatures": {
+            "additional_custom_breakpoints": true,
+            "e_swiper_latest": true,
+            "e_nested_atomic_repeaters": true,
+            "e_optimized_control_loading": true,
+            "e_onboarding": true,
+            "e_css_smooth_scroll": true,
+            "theme_builder_v2": true,
+            "hello-theme-header-footer": true,
+            "home_screen": true,
+            "landing-pages": true,
+            "nested-elements": true,
+            "editor_v2": true,
+            "link-in-bio": true,
+            "floating-buttons": true
+        },
+        "urls": {
+            "assets": "wp-content\/plugins\/elementor\/assets\/",
+            "ajaxurl": "wp-admin\/admin-ajax.php",
+            "uploadUrl": "/wp-content/uploads"
+        },
+        "nonces": {
+            "floatingButtonsClickTracking": "d05fcf399c"
+        },
+        "swiperClass": "swiper",
+        "settings": {
+            "page": [],
+            "editorPreferences": []
+        },
+        "kit": {
+            "body_background_background": "classic",
+            "active_breakpoints": [
+                "viewport_mobile",
+                "viewport_tablet"
+            ],
+            "global_image_lightbox": "yes",
+            "lightbox_enable_counter": "yes",
+            "lightbox_enable_fullscreen": "yes",
+            "lightbox_enable_zoom": "yes",
+            "lightbox_enable_share": "yes",
+            "lightbox_title_src": "title",
+            "lightbox_description_src": "description",
+            "hello_header_logo_type": "title",
+            "hello_header_menu_layout": "horizontal",
+            "hello_footer_logo_type": "logo"
+        },
+        "post": {
+            "id": 97,
+            "title": "Five%20Star%20Formwork%20\u2013%20Best%20Formwork%20Solutions",
+            "excerpt": "",
+            "featuredImage": false
+        }
+    }
+</script>
+	<!-- <script id="elementskit-elementor-js-extra"
+		type="litespeed/javascript">var ekit_config={"ajaxurl":"wp-admin\/admin-ajax.php","nonce":"07e28b453d"}</script> -->
 	<script data-no-optimize="1"
 		type="1191501f75ba09a8d0808bb5-text/javascript">
 		! function(t, e) {
@@ -3443,7 +3667,7 @@
 	<script src="cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
 		data-cf-settings="1191501f75ba09a8d0808bb5-|49" defer></script>
 </body>
-<!-- Mirrored from fivestarformwork.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Oct 2025 07:11:54 GMT -->
+<!-- Mirrored from  by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Oct 2025 07:11:54 GMT -->
 
 </html>
 <!-- Page optimized by LiteSpeed Cache @2025-10-03 04:56:43 -->
