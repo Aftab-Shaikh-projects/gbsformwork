@@ -385,163 +385,12 @@
 			line-height: 1.6;
 		}
 	</style>
-
-	<style>
-		.hero_cust_animation {
-			animation: hero_cust_animation 10s linear forwards infinite;
-		}
-
-		@keyframes hero_cust_animation {
-			0% {
-				background-size: 100%;
-			}
-
-			100% {
-				background-size: 150%;
-			}
-		}
-
-		.close_nav_bar {
-			display: none;
-			top: 10px;
-			right: 20px;
-			font-size: 20px;
-			cursor: pointer;
-			z-index: 999;
-			padding: 18px;
-		}
-
-		@media screen and (max-width: 1024px) {
-			.close_nav_bar {
-				display: block;
-			}
-
-			.elementor-nav-menu--main {
-
-				background-color: white !important;
-				position: fixed;
-				color: black;
-				z-index: 111;
-				width: 95vw;
-				justify-content: left;
-				top: 10px;
-				left: 50%;
-				flex-direction: column;
-				transform: translateX(-50%);
-			}
-
-			.elementor-nav-menu--main ul li {
-				display: block !important;
-
-			}
-
-			.elementor-nav-menu--main ul li a {
-				color: green !important;
-			}
-
-			.elementor-nav-menu--main ul {
-				margin: unset !important;
-				display: block !important;
-				background-color: white;
-				border-radius: 20px;
-			}
-
-			.active_nav {
-				background-color: green;
-				padding: 0 17.5px !important;
-			}
-
-			.elementor-nav-menu--main .active_nav a {
-				color: white !important;
-			}
-		}
-	</style>
-
-	<style>
-		body {
-			overflow-x: hidden;
-		}
-
-		/* --- General Animation Setup --- */
-		/* Elements start as invisible and slightly moved */
-		/*  */
-		.fade-in-up {
-			opacity: 0;
-			transform: translateY(100%);
-			transition: opacity 0.8s ease-out, transform 0.6s ease-out !important;
-		}
-
-		.fade-in-left {
-			opacity: 0;
-			transform: translateX(-100%);
-			transition: opacity 0.8s ease-out, transform 0.8s ease-out !important;
-		}
-
-		.fade-in-right {
-			opacity: 0;
-			transform: translateX(100%);
-			transition: opacity 0.8s ease-out, transform 0.8s ease-out !important;
-		}
-
-		.fade-in-down {
-			opacity: 0;
-			transform: translateY(-100%);
-			transition: opacity 0.8s ease-out, transform 0.6s ease-out !important;
-		}
-
-		.fade-in {
-			opacity: 0;
-			transition: opacity 0.8s ease-out !important;
-		}
-
-		.bounce-in {
-			opacity: 0;
-			transform: scale(0.5);
-			transition: opacity 0.8s ease-out, transform 0.6s ease-out;
-		}
-
-		/* The 'visible' class triggers the animation */
-		.visible {
-			opacity: 1;
-			transform: none;
-		}
-
-		/* --- Staggered animation for list items or cards --- */
-		.stagger-children>* {
-			opacity: 0;
-			transform: translateY(20px);
-			transition: opacity 0.5s ease-out, transform 0.5s ease-out;
-		}
-
-		.stagger-children.visible>* {
-			opacity: 1;
-			transform: none;
-		}
-
-		/* You can add delays for each child */
-		.stagger-children.visible>*:nth-child(1) {
-			transition-delay: 0.1s;
-		}
-
-		.stagger-children.visible>*:nth-child(2) {
-			transition-delay: 0.2s;
-		}
-
-		.stagger-children.visible>*:nth-child(3) {
-			transition-delay: 0.3s;
-		}
-
-		.stagger-children.visible>*:nth-child(4) {
-			transition-delay: 0.4s;
-		}
-
-		/* Add more if needed */
-	</style>
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-	<!-- <script type="litespeed/javascript" data-src="wp-includes/js/jquery/jquery.min.js"
-		id="jquery-core-js"></script> -->
-	<!-- <meta name="generator" content="WordPress 6.8.2" /> -->
-
+	<script type="litespeed/javascript" data-src="wp-includes/js/jquery/jquery.min.js"
+		id="jquery-core-js"></script>
+	<meta name="generator" content="WordPress 6.8.2" />
+	<link rel="canonical" href="index" />
+	<link rel='shortlink' href='index' />
 	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
 		href="wp-json/oembed/1.0/embed67bf.json" />
 	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
@@ -578,13 +427,13 @@
 
 <body
 	class="home wp-singular page-template-default page page-id-97 wp-theme-hello-elementor elementor-default elementor-kit-9 elementor-page elementor-page-97">
-	<!-- <a class="skip-link screen-reader-text" href="#contact_us">Skip to content</a> -->
-	<div data-elementor-type="header" style="position:absolute; width:100%;" data-elementor-id="93" class="elementor elementor-93 elementor-location-header"
+	<a class="skip-link screen-reader-text" href="#contact_us">Skip to content</a>
+	<div data-elementor-type="header" data-elementor-id="93" class="elementor elementor-93 elementor-location-header"
 		data-elementor-post-type="elementor_library">
 		<section
 			class="elementor-section elementor-top-section elementor-element elementor-element-1d9d199d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
 			data-id="1d9d199d" data-element_type="section"
-			data-settings="{background_background:classic}">
+			data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4d0670f9"
 					data-id="4d0670f9" data-element_type="column">
@@ -600,11 +449,11 @@
 										<div class="elementor-element elementor-element-22b1a51c elementor-widget elementor-widget-image"
 											data-id="22b1a51c" data-element_type="widget" data-widget_type="image.default">
 											<div class="elementor-widget-container">
-												<a href="">
-													<img data-lazyloaded="1" style="filter: drop-shadow(0 0 0.75rem white); width: 30vw;"
+												<a href="index">
+													<img data-lazyloaded="1" style="filter: drop-shadow(0 0 0.75rem white);"
 														src="assets/images/logo.webp"
-														fetchpriority="high"
-														class="attachment-full size-full wp-image-422" alt="" /> </a>
+														fetchpriority="high" width="1538" height="756"
+														class="attachment-full size-full wp-image-422" alt="" data-sizes="(max-width: 1538px) 100vw, 1538px" /> </a>
 											</div>
 										</div>
 									</div>
@@ -621,15 +470,14 @@
 											<div class="elementor-widget-container">
 												<nav aria-label="Menu"
 													class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
-													<span class="close_nav_bar">X</span>
 													<ul id="menu-1-7bdcc948" class="elementor-nav-menu">
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298 active_nav">
-															<a href=""
-																class="elementor-item">Home</a>
+														<li
+															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-155">
+															<a href="index" aria-current="page"
+																class="elementor-item elementor-item-active">Home</a>
 														</li>
-														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298">
-															<a href="#about-us" class="elementor-item">About</a>
-														</li>
+														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a
+																href="#about-us" class="elementor-item">About</a></li>
 														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a
 																href="#services_we_offer" class="elementor-item">Services</a></li>
 														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-296"><a
@@ -649,7 +497,7 @@
 													<ul id="menu-2-7bdcc948" class="elementor-nav-menu">
 														<li
 															class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-155">
-															<a href="" aria-current="page" class="elementor-item elementor-item-active"
+															<a href="index" aria-current="page" class="elementor-item elementor-item-active"
 																tabindex="-1">Home</a>
 														</li>
 														<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a
@@ -696,25 +544,11 @@
 		<div class="page-content">
 			<div data-elementor-type="wp-page" data-elementor-id="97" class="elementor elementor-97"
 				data-elementor-post-type="page">
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f15e24 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+				<section
+					class="elementor-section elementor-top-section elementor-element elementor-element-5f15e24 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
 					data-id="5f15e24" data-element_type="section"
-					data-settings="">
-					<div class="elementor-background-slideshow swiper swiper-fade swiper-initialized swiper-horizontal swiper-rtl swiper-watch-progress swiper-backface-hidden" id="hero_swiper" dir="rtl">
-						<div class="swiper-wrapper">
-							<div class="swiper-slide">
-								<div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded hero_cust_animation" style="background-image: url(wp-content/uploads/2023/09/alu_img.png);"></div>
-							</div>
-							<div class="swiper-slide">
-								<div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded hero_cust_animation" style="background-image: url(wp-content/uploads/2023/09/Alu-form.png);"></div>
-							</div>
-							<div class="swiper-slide ">
-								<div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded hero_cust_animation" style="background-image: url(wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png);"></div>
-							</div>
-						</div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-					</div>
-					<div class="elementor-background-overlay">
-
-					</div>
+					data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:304,&quot;url&quot;:&quot;wp-content\/uploads\/2023\/09\/alu_img.png&quot;},{&quot;id&quot;:305,&quot;url&quot;:&quot;wp-content\/uploads\/2023\/09\/Alu-form.png&quot;},{&quot;id&quot;:306,&quot;url&quot;:&quot;wp-content\/uploads\/2023\/09\/aluminum-concrete-formwork-2-1024x768-1.png&quot;}],&quot;background_slideshow_lazyload&quot;:&quot;yes&quot;,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+					<div class="elementor-background-overlay"></div>
 					<div class="elementor-container elementor-column-gap-default">
 						<div
 							class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-45708c1"
@@ -786,31 +620,42 @@
 						</div>
 					</div>
 				</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-de9b78a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="de9b78a" data-element_type="section">
+				<section
+					class="elementor-section elementor-top-section elementor-element elementor-element-de9b78a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+					data-id="de9b78a" data-element_type="section">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-573a00c  fade-in-up">
+						<div
+							class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-573a00c elementor-invisible"
+							data-id="573a00c" data-element_type="column"
+							data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1879c32 elementor-view-default elementor-widget elementor-widget-icon" data-id="1879c32" data-element_type="widget" data-widget_type="icon.default">
+								<div
+									class="elementor-element elementor-element-1879c32 elementor-view-default elementor-widget elementor-widget-icon"
+									data-id="1879c32" data-element_type="widget" data-widget_type="icon.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-icon-wrapper">
 											<div class="elementor-icon">
-												<i aria-hidden="true" class="icon icon-construction-tool-vehicle-with-crane-lifting-materials"></i>
+												<i aria-hidden="true"
+													class="icon icon-construction-tool-vehicle-with-crane-lifting-materials"></i>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-eb42614 elementor-widget elementor-widget-heading" data-id="eb42614" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-eb42614 elementor-widget elementor-widget-heading"
+									data-id="eb42614" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
 										<h4 class="elementor-heading-title elementor-size-default">Estd. 2018</h4>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-d4289e4 elementor-widget elementor-widget-counter" data-id="d4289e4" data-element_type="widget" data-widget_type="counter.default">
+								<div class="elementor-element elementor-element-d4289e4 elementor-widget elementor-widget-counter"
+									data-id="d4289e4" data-element_type="widget" data-widget_type="counter.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-counter">
 											<div class="elementor-counter-title">Projects</div>
 											<div class="elementor-counter-number-wrapper">
 												<span class="elementor-counter-number-prefix"></span>
-												<span class="elementor-counter-number" data-duration="2000" data-to-value="45" data-from-value="0" data-delimiter=",">45</span>
+												<span class="elementor-counter-number" data-duration="2000" data-to-value="45"
+													data-from-value="0" data-delimiter=",">0</span>
 												<span class="elementor-counter-number-suffix">+</span>
 											</div>
 										</div>
@@ -818,13 +663,22 @@
 								</div>
 							</div>
 						</div>
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1328925" data-id="1328925" data-element_type="column">
+						<div
+							class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1328925"
+							data-id="1328925" data-element_type="column">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-ce6eae1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ce6eae1" data-element_type="section">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-ce6eae1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+									data-id="ce6eae1" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a346c2f  fade-in-right">
+										<div
+											class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a346c2f elementor-invisible"
+											data-id="a346c2f" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-fccb472 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="fccb472" data-element_type="widget" data-widget_type="icon-box.default">
+												<div
+													class="elementor-element elementor-element-fccb472 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+													data-id="fccb472" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-icon-box-wrapper">
 															<div class="elementor-icon-box-icon">
@@ -840,18 +694,30 @@
 														</div>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-513cc61 elementor-align-center elementor-widget elementor-widget-button" data-id="513cc61" data-element_type="widget" data-widget_type="button.default">
+												<div
+													class="elementor-element elementor-element-513cc61 elementor-align-center elementor-widget elementor-widget-button"
+													data-id="513cc61" data-element_type="widget" data-widget_type="button.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
-
+															<!-- <a class="elementor-button elementor-button-link elementor-size-xs"
+																href="about/index">
+																<span class="elementor-button-content-wrapper">
+																	<span class="elementor-button-text">Learn more</span>
+																</span>
+															</a> -->
 														</div>
 													</div>
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a1f48a1  fade-in-right">
+										<div
+											class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a1f48a1 elementor-invisible"
+											data-id="a1f48a1" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:200}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-ac8706b elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="ac8706b" data-element_type="widget" data-widget_type="icon-box.default">
+												<div
+													class="elementor-element elementor-element-ac8706b elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+													data-id="ac8706b" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-icon-box-wrapper">
 															<div class="elementor-icon-box-icon">
@@ -867,18 +733,30 @@
 														</div>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-ac09494 elementor-align-center elementor-widget elementor-widget-button" data-id="ac09494" data-element_type="widget" data-widget_type="button.default">
+												<div
+													class="elementor-element elementor-element-ac09494 elementor-align-center elementor-widget elementor-widget-button"
+													data-id="ac09494" data-element_type="widget" data-widget_type="button.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
-
+															<!-- <a class="elementor-button elementor-button-link elementor-size-xs"
+																href="about/index">
+																<span class="elementor-button-content-wrapper">
+																	<span class="elementor-button-text">Learn more</span>
+																</span>
+															</a> -->
 														</div>
 													</div>
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-56c332a  fade-in-right">
+										<div
+											class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-56c332a elementor-invisible"
+											data-id="56c332a" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:300}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-61dcb93 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="61dcb93" data-element_type="widget" data-widget_type="icon-box.default">
+												<div
+													class="elementor-element elementor-element-61dcb93 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+													data-id="61dcb93" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-icon-box-wrapper">
 															<div class="elementor-icon-box-icon">
@@ -894,10 +772,17 @@
 														</div>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-4afe06f elementor-align-center elementor-widget elementor-widget-button" data-id="4afe06f" data-element_type="widget" data-widget_type="button.default">
+												<div
+													class="elementor-element elementor-element-4afe06f elementor-align-center elementor-widget elementor-widget-button"
+													data-id="4afe06f" data-element_type="widget" data-widget_type="button.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
-
+															<a class="elementor-button elementor-button-link elementor-size-xs"
+																href="#about-us">
+																<span class="elementor-button-content-wrapper">
+																	<span class="elementor-button-text">Learn more</span>
+																</span>
+															</a>
 														</div>
 													</div>
 												</div>
@@ -909,42 +794,71 @@
 						</div>
 					</div>
 				</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9051870 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default " data-id="9051870" data-element_type="section" id="about-us">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9051870 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+					data-id="9051870" data-element_type="section" id="about-us">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6dc0ebc  fade-in-left">
+						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6dc0ebc elementor-invisible"
+							data-id="6dc0ebc" data-element_type="column"
+							data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-83387ef elementor-widget elementor-widget-heading" data-id="83387ef" data-element_type="widget" data-widget_type="heading.default">
+								<h1>About Us</h1>
+								<div class="elementor-element elementor-element-83387ef elementor-widget elementor-widget-heading"
+									data-id="83387ef" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
 										<h6 class="elementor-heading-title elementor-size-default">Who we are</h6>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-2270719 elementor-widget elementor-widget-heading" data-id="2270719" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-2270719 elementor-widget elementor-widget-heading"
+									data-id="2270719" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
 										<h2 class="elementor-heading-title elementor-size-default">Welcome to Five Star Formwork System</h2>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-cf275cd elementor-widget elementor-widget-text-editor" data-id="cf275cd" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-cf275cd elementor-widget elementor-widget-text-editor"
+									data-id="cf275cd" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>Are you ready to transform the way you approach construction? At Five Star Formwork System, we bring you a groundbreaking solution that’s changing the landscape of building construction. Our aluminum formwork technology has taken the world by storm, offering unparalleled efficiency, strength, and quality.</p>
+										<p>Are you ready to transform the way you approach construction? At Five Star Formwork System, we
+											bring you a groundbreaking solution that&#8217;s changing the landscape of building construction.
+											Our aluminum formwork technology has taken the world by storm, offering unparalleled efficiency,
+											strength, and quality.</p>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-0a37d7c elementor-widget elementor-widget-button" data-id="0a37d7c" data-element_type="widget" data-widget_type="button.default">
+								<div class="elementor-element elementor-element-0a37d7c elementor-widget elementor-widget-button"
+									data-id="0a37d7c" data-element_type="widget" data-widget_type="button.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-button-wrapper">
-
+											<!-- <a class="elementor-button elementor-button-link elementor-size-md" href="about/index">
+												<span class="elementor-button-content-wrapper">
+													<span class="elementor-button-text">Discover more</span>
+												</span>
+											</a> -->
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-eae93a5" data-id="eae93a5" data-element_type="column">
+						<div
+							class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-eae93a5"
+							data-id="eae93a5" data-element_type="column">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d5bf146 elementor-widget elementor-widget-image  fade-in-right" data-id="d5bf146" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fade-in-right&quot;}" data-widget_type="image.default">
+								<div
+									class="elementor-element elementor-element-d5bf146 elementor-invisible elementor-widget elementor-widget-image"
+									data-id="d5bf146" data-element_type="widget"
+									data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
 									<div class="elementor-widget-container">
-										<img decoding="async" width="1440" height="1080" src="https://fivestarformwork.in/wp-content/uploads/2023/08/211679903620.jpg" class="attachment-full size-full wp-image-134" alt="" srcset="https://fivestarformwork.in/wp-content/uploads/2023/08/211679903620.jpg 1440w, https://fivestarformwork.in/wp-content/uploads/2023/08/211679903620-300x225.jpg 300w, https://fivestarformwork.in/wp-content/uploads/2023/08/211679903620-1024x768.jpg 1024w, https://fivestarformwork.in/wp-content/uploads/2023/08/211679903620-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px">
+										<img data-lazyloaded="1"
+											src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDQwIiBoZWlnaHQ9IjEwODAiIHZpZXdCb3g9IjAgMCAxNDQwIDEwODAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+"
+											decoding="async" width="1440" height="1080"
+											data-src="wp-content/uploads/2023/08/211679903620.jpg"
+											class="attachment-full size-full wp-image-134" alt=""
+											data-srcset="wp-content/uploads/2023/08/211679903620.jpg 1440w, wp-content/uploads/2023/08/211679903620-300x225.jpg 300w, wp-content/uploads/2023/08/211679903620-1024x768.jpg 1024w, wp-content/uploads/2023/08/211679903620-768x576.jpg 768w"
+											data-sizes="(max-width: 1440px) 100vw, 1440px" />
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box  bounce-in">
+								<div class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-invisible elementor-widget elementor-widget-icon-box"
+									data-id="f025239" data-element_type="widget"
+									data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;bounceIn&quot;}"
+									data-widget_type="icon-box.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-icon-box-wrapper">
 											<div class="elementor-icon-box-icon">
@@ -969,7 +883,7 @@
 
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-8372fff elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="Aluminum_Formwork_Features" data-id="8372fff" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" style="background-color: #1d323f;">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c0016b  fade-in-left" data-id="0c0016b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fade-in-left&quot;}">
+						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c0016b animated fadeInLeft" data-id="0c0016b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-background-overlay"></div>
 								<div class="elementor-element elementor-element-5e11cda elementor-widget elementor-widget-heading" data-id="5e11cda" data-element_type="widget" data-widget_type="heading.default">
@@ -1162,7 +1076,7 @@
 
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-522a2c5 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" style="padding: 50px 0;" data-id="522a2c5" data-element_type="section">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1a43414  fade-in-left" data-id="1a43414" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fade-in-left&quot;}">
+						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1a43414 animated fadeInLeft" data-id="1a43414" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5355143 elementor-widget elementor-widget-image" data-id="5355143" data-element_type="widget" data-widget_type="image.default">
 									<div class="elementor-widget-container">
@@ -1171,7 +1085,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-54fa543  fade-in-right">
+						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-54fa543 animated fadeInRight" data-id="54fa543" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2174c24 elementor-widget elementor-widget-heading" data-id="2174c24" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
@@ -1196,98 +1110,151 @@
 
 
 
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b46069b elementor-section-boxed elementor-section-height-default elementor-section-height-default">
+				<section
+					class="elementor-section elementor-top-section elementor-element elementor-element-b46069b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+					data-id="b46069b" data-element_type="section"
+					data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="elementor-background-overlay"></div>
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-06c48ff" data-id="06c48ff" data-element_type="column">
+						<div
+							class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-06c48ff"
+							data-id="06c48ff" data-element_type="column">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-b004880 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b004880" data-element_type="section">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-b004880 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+									data-id="b004880" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-08ce837  fade-in-up">
+										<div
+											class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-08ce837 elementor-invisible"
+											data-id="08ce837" data-element_type="column"
+											data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-a306683 elementor-widget elementor-widget-heading" data-id="a306683" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-a306683 elementor-widget elementor-widget-heading"
+													data-id="a306683" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
 														<h6 class="elementor-heading-title elementor-size-default">Our Solution</h6>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-fe4832a elementor-widget elementor-widget-heading" data-id="fe4832a" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-fe4832a elementor-widget elementor-widget-heading"
+													data-id="fe4832a" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
-														<h2 class="elementor-heading-title elementor-size-default">Say goodbye to conventional construction methods and welcome a new era of efficiency.</h2>
+														<h2 class="elementor-heading-title elementor-size-default">Say goodbye to conventional
+															construction methods and welcome a new era of efficiency.</h2>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-7128005 elementor-widget elementor-widget-text-editor" data-id="7128005" data-element_type="widget" data-widget_type="text-editor.default">
+												<div
+													class="elementor-element elementor-element-7128005 elementor-widget elementor-widget-text-editor"
+													data-id="7128005" data-element_type="widget" data-widget_type="text-editor.default">
 													<div class="elementor-widget-container">
-														<p>Our revolutionary aluminum formwork system enables the casting of all building components in a single seamless operation. From walls to floor slabs, columns, beams, and even intricate staircases, our system delivers precise results that adhere to the highest industry standards.</p>
+														<p>Our revolutionary aluminum formwork system enables the casting of all building components
+															in a single seamless operation. From walls to floor slabs, columns, beams, and even
+															intricate staircases, our system delivers precise results that adhere to the highest
+															industry standards.</p>
 													</div>
 												</div>
 											</div>
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-eaea1ac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eaea1ac" data-element_type="section">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-eaea1ac elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+									data-id="eaea1ac" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7e5f1dc  fade-in-left">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7e5f1dc elementor-invisible"
+											data-id="7e5f1dc" data-element_type="column"
+											data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-c2819aa elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action" data-id="c2819aa" data-element_type="widget" data-widget_type="call-to-action.default">
+												<div
+													class="elementor-element elementor-element-c2819aa elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
+													data-id="c2819aa" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
 															<div class="elementor-cta__bg-wrapper">
-																<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://fivestarformwork.in/wp-content/uploads/2023/09/alu_img.png);" role="img" aria-label="alu_img"></div>
+																<div class="elementor-cta__bg elementor-bg"
+																	style="background-image: url(wp-content/uploads/2023/09/alu_img.png);" role="img"
+																	aria-label="alu_img"></div>
 																<div class="elementor-cta__bg-overlay"></div>
 															</div>
 															<div class="elementor-cta__content">
-																<div class="elementor-content-item elementor-cta__content-item elementor-icon-wrapper elementor-cta__icon elementor-view-default">
+																<div
+																	class="elementor-content-item elementor-cta__content-item elementor-icon-wrapper elementor-cta__icon elementor-view-default">
 																	<div class="elementor-icon">
 																		<i aria-hidden="true" class="mdi mdi-home-city-outline"></i>
 																	</div>
 																</div>
 																<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
 																	Aluminium Formwork System</h4>
-																<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-																	Aluminum formwork is a construction system for forming cast in place concrete structure of a
-																	Building. Auto formwork system provides aluminum formwork for RCC, load-bearing, multi-storeyed
-																	Buildings and enables the walls and slab to be poured in the same operation. This increases
-																	Efficiency, and also produces an extraordinarily strong structure with excellent concrete finish.
+																<div
+																	class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+																	Aluminum formwork is a construction system for forming cast in place concrete
+																	structure of a
+																	Building. Auto formwork system provides aluminum formwork for RCC, load-bearing,
+																	multi-storeyed
+																	Buildings and enables the walls and slab to be poured in the same operation. This
+																	increases
+																	Efficiency, and also produces an extraordinarily strong structure with excellent
+																	concrete finish.
 																	<br> <br>
 																</div>
-																<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
-
-																</div>
+																<!-- <div
+																	class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+																	<a class="elementor-cta__button elementor-button elementor-size-xs"
+																		href="about/index">
+																		Learn more </a>
+																</div> -->
 															</div>
 														</div>
 													</div>
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2cad392  fade-in-right">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2cad392 elementor-invisible"
+											data-id="2cad392" data-element_type="column"
+											data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-f5af603 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action" data-id="f5af603" data-element_type="widget" data-widget_type="call-to-action.default">
+												<div
+													class="elementor-element elementor-element-f5af603 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
+													data-id="f5af603" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
 															<div class="elementor-cta__bg-wrapper">
-																<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://fivestarformwork.in/wp-content/uploads/2023/09/71569-17829493.jpg);" role="img" aria-label="71569-17829493"></div>
+																<div class="elementor-cta__bg elementor-bg"
+																	style="background-image: url(wp-content/uploads/2023/09/71569-17829493.jpg);"
+																	role="img" aria-label="71569-17829493"></div>
 																<div class="elementor-cta__bg-overlay"></div>
 															</div>
 															<div class="elementor-cta__content">
-																<div class="elementor-content-item elementor-cta__content-item elementor-icon-wrapper elementor-cta__icon elementor-view-default">
+																<div
+																	class="elementor-content-item elementor-cta__content-item elementor-icon-wrapper elementor-cta__icon elementor-view-default">
 																	<div class="elementor-icon">
 																		<i aria-hidden="true" class=" las la-store-alt"></i>
 																	</div>
 																</div>
 																<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
 																	Formwork Assembly</h4>
-																<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-																	The simplicity of Aluminium Formwork and the repetitive nature of the assembly process make it
-																	possible to accurately programme construction sequences and thus cycle times well in advance. In
-																	addition this enables unskilled labour to work with the Formwork therefore reducing the burden on
+																<div
+																	class="elementor-cta__description elementor-cta__content-item elementor-content-item">
+																	The simplicity of Aluminium Formwork and the repetitive nature of the assembly process
+																	make it
+																	possible to accurately programme construction sequences and thus cycle times well in
+																	advance. In
+																	addition this enables unskilled labour to work with the Formwork therefore reducing
+																	the burden on
 																	skilled labour when this is in short supply.
-																	On leaving the factory all panels are clearly labelled to ensure that they are easily identifiable on site.
-																	<br>
-																	<br>
+																	On leaving the factory all panels are clearly labelled to ensure that they are easily
+																	identifiable on site.
+																	<br><br>
 																</div>
-																<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
-
-																</div>
+																<!-- <div
+																	class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+																	<a class="elementor-cta__button elementor-button elementor-size-xs"
+																		href="about/index">
+																		Learn more </a>
+																</div> -->
 															</div>
 														</div>
 													</div>
@@ -1307,31 +1274,42 @@
 						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-af660de"
 							data-id="af660de" data-element_type="column">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-93d1408 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="93d1408" data-element_type="section">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-93d1408 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+									data-id="93d1408" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-dfcdddc  fade-in-up">
+										<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-dfcdddc elementor-invisible"
+											data-id="dfcdddc" data-element_type="column"
+											data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-5202663 elementor-widget elementor-widget-heading" data-id="5202663" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-5202663 elementor-widget elementor-widget-heading"
+													data-id="5202663" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
 														<h6 class="elementor-heading-title elementor-size-default">What we offer</h6>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-9275a03 elementor-widget elementor-widget-heading" data-id="9275a03" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-9275a03 elementor-widget elementor-widget-heading"
+													data-id="9275a03" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
-														<h2 class="elementor-heading-title elementor-size-default">Aluminium formwork System Components</h2>
+														<h2 class="elementor-heading-title elementor-size-default">Aluminium formwork System
+															Components</h2>
 													</div>
 												</div>
 											</div>
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+									data-id="3c89469" data-element_type="section"
+									data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:200}">
 									<div class="elementor-container elementor-column-gap-default">
 										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
 											data-id="9b21c27" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-e372f48 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-e372f48 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="e372f48" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1360,7 +1338,7 @@
 											data-id="8cc971e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-be1a63a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-be1a63a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="be1a63a" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1389,7 +1367,7 @@
 											data-id="1f5b2e5" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-3f225b3 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-3f225b3 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="3f225b3" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1418,7 +1396,7 @@
 											data-id="3628982" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-dbf409a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-dbf409a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="dbf409a" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1445,13 +1423,15 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-664509d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+									data-id="664509d" data-element_type="section"
+									data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:200}">
 									<div class="elementor-container elementor-column-gap-default">
 										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="15ec27f" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1480,7 +1460,7 @@
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-6459d09 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-6459d09 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="6459d09" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1509,7 +1489,7 @@
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-28b6f19 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-28b6f19 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="28b6f19" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1538,7 +1518,7 @@
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-953ca2c elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-953ca2c elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="953ca2c" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1565,13 +1545,15 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+									data-id="3c89469" data-element_type="section"
+									data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:200}">
 									<div class="elementor-container elementor-column-gap-default">
 										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
 											data-id="9b21c27" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-e372f48 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-e372f48 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="e372f48" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1600,7 +1582,7 @@
 											data-id="8cc971e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-be1a63a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-be1a63a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="be1a63a" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1629,7 +1611,7 @@
 											data-id="1f5b2e5" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-3f225b3 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-3f225b3 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="3f225b3" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1658,7 +1640,7 @@
 											data-id="3628982" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-dbf409a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-dbf409a elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="dbf409a" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1685,13 +1667,15 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-664509d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+									data-id="664509d" data-element_type="section"
+									data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:200}">
 									<div class="elementor-container elementor-column-gap-default">
 										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="15ec27f" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1720,7 +1704,7 @@
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-6459d09 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-6459d09 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="6459d09" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1749,7 +1733,7 @@
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-28b6f19 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-28b6f19 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="28b6f19" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1778,7 +1762,7 @@
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-953ca2c elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-953ca2c elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="953ca2c" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1805,12 +1789,14 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-664509d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+									data-id="664509d" data-element_type="section"
+									data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:200}">
 									<div class="elementor-container elementor-column-gap-default">
 										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+												<div class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="15ec27f" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1839,7 +1825,7 @@
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-6459d09 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-6459d09 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="6459d09" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1868,7 +1854,7 @@
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-28b6f19 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-28b6f19 elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="28b6f19" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1897,7 +1883,7 @@
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
-													class="elementor-element elementor-element-953ca2c elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
+													class="elementor-element elementor-element-953ca2c elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor-animated-content elementor-widget elementor-widget-call-to-action"
 													data-id="953ca2c" data-element_type="widget" data-widget_type="call-to-action.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-cta">
@@ -1946,9 +1932,9 @@
 
 
 
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-8f61cd3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" style="background-color: white; padding:60px 0;" data-id="8f61cd3" data-element_type="section" id="services_we_offer">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8f61cd3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f61cd3" data-element_type="section" id="services_we_offer">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4e597ec  fade-in-left">
+						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4e597ec animated fadeInLeft" data-id="4e597ec" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-bc79caf elementor-widget elementor-widget-heading" data-id="bc79caf" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
@@ -1984,7 +1970,7 @@
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-90e2e49 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="90e2e49" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4fcec6f  fade-in-down" data-id="4fcec6f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-down&quot;}">
+										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4fcec6f animated fadeInDown" data-id="4fcec6f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInDown&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-b428e2d elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="b428e2d" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
@@ -2006,7 +1992,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-196eadc  fade-in-right" data-id="196eadc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-right&quot;}">
+										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-196eadc animated fadeInRight" data-id="196eadc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-e6ae3a9 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="e6ae3a9" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
@@ -2032,7 +2018,7 @@
 								</section>
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-fe0fda0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fe0fda0" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-76ff38d  fade-in-left" data-id="76ff38d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-left&quot;}">
+										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-76ff38d animated fadeInLeft" data-id="76ff38d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-563409b elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="563409b" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
@@ -2054,7 +2040,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-86c89f4  fade-in-up" data-id="86c89f4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-up&quot;}">
+										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-86c89f4 animated fadeInUp" data-id="86c89f4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-1643578 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="1643578" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
@@ -2087,39 +2073,65 @@
 
 
 
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9e77b05 elementor-section-boxed elementor-section-height-default elementor-section-height-default" style="padding:60px 0;" data-id="9e77b05" data-element_type="section">
+				<section
+					class="elementor-section elementor-top-section elementor-element elementor-element-9e77b05 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+					data-id="9e77b05" data-element_type="section">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5be83ec  fade-in-left" data-id="5be83ec" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fade-in-left&quot;}">
+						<div
+							class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5be83ec elementor-invisible"
+							data-id="5be83ec" data-element_type="column"
+							data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1acbb1b elementor-widget elementor-widget-heading" data-id="1acbb1b" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-1acbb1b elementor-widget elementor-widget-heading"
+									data-id="1acbb1b" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
 										<h6 class="elementor-heading-title elementor-size-default">Why Choose us</h6>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-a55511c elementor-widget elementor-widget-heading" data-id="a55511c" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-a55511c elementor-widget elementor-widget-heading"
+									data-id="a55511c" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Why Choose Five Star Formwork System?</h2>
+										<h2 class="elementor-heading-title elementor-size-default">Why Choose Five Star Formwork System?
+										</h2>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-88955a6 elementor-widget elementor-widget-text-editor" data-id="88955a6" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-88955a6 elementor-widget elementor-widget-text-editor"
+									data-id="88955a6" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>Experience the future of construction with Five Star Formwork System. Contact us today to explore the possibilities.</p>
+										<p>Experience the future of construction with Five Star Formwork System. Contact us today to explore
+											the possibilities.</p>
 									</div>
 								</div>
-								<div class="elementor-element elementor-element-48f0b4c elementor-widget elementor-widget-image" data-id="48f0b4c" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-48f0b4c elementor-widget elementor-widget-image"
+									data-id="48f0b4c" data-element_type="widget" data-widget_type="image.default">
 									<div class="elementor-widget-container">
-										<img decoding="async" width="1024" height="768" src="https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png" class="attachment-full size-full wp-image-306" alt="" srcset="https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png 1024w, https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-300x225.png 300w, https://fivestarformwork.in/wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<img data-lazyloaded="1"
+											src="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png"
+											decoding="async" width="1024" height="768"
+											data-src="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png"
+											class="attachment-full size-full wp-image-306" alt=""
+											data-srcset="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png 1024w, wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-300x225.png 300w, wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-768x576.png 768w"
+											data-sizes="(max-width: 1024px) 100vw, 1024px" />
 									</div>
 								</div>
 							</div>
 						</div>
-						<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-774fb56" data-id="774fb56" data-element_type="column">
+						<div
+							class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-774fb56"
+							data-id="774fb56" data-element_type="column">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-b565631 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b565631" data-element_type="section">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-b565631 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+									data-id="b565631" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-624c4d4  fade-in-down" data-id="624c4d4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-down&quot;}">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-624c4d4 elementor-invisible"
+											data-id="624c4d4" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInDown&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-7ee6fd5 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="7ee6fd5" data-element_type="widget" data-widget_type="icon-box.default">
+												<div
+													class="elementor-element elementor-element-7ee6fd5 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+													data-id="7ee6fd5" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-icon-box-wrapper">
 															<div class="elementor-icon-box-icon">
@@ -2132,16 +2144,23 @@
 																		Revolutionary Aluminum Excellence </span>
 																</h4>
 																<p class="elementor-icon-box-description">
-																	Experience the future of construction with our cutting-edge aluminum formwork technology. Say goodbye to traditional methods and embrace a system that casts all building components seamlessly in a single operation.</p>
+																	Experience the future of construction with our cutting-edge aluminum formwork
+																	technology. Say goodbye to traditional methods and embrace a system that casts all
+																	building components seamlessly in a single operation.</p>
 															</div>
 														</div>
 													</div>
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9737b51  fade-in-right" data-id="9737b51" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-right&quot;}">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9737b51 elementor-invisible"
+											data-id="9737b51" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-20acdb9 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="20acdb9" data-element_type="widget" data-widget_type="icon-box.default">
+												<div
+													class="elementor-element elementor-element-20acdb9 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+													data-id="20acdb9" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-icon-box-wrapper">
 															<div class="elementor-icon-box-icon">
@@ -2154,7 +2173,9 @@
 																		Strength Meets Precision </span>
 																</h4>
 																<p class="elementor-icon-box-description">
-																	At Five Star Formwork System, we prioritize both strength and precision. Our technology delivers cast-in-place reinforced concrete structures that stand tall and stable, meeting stringent industry standards.</p>
+																	At Five Star Formwork System, we prioritize both strength and precision. Our
+																	technology delivers cast-in-place reinforced concrete structures that stand tall and
+																	stable, meeting stringent industry standards.</p>
 															</div>
 														</div>
 													</div>
@@ -2163,11 +2184,18 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-8a44d27 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8a44d27" data-element_type="section">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-8a44d27 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+									data-id="8a44d27" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3da2292  fade-in-left" data-id="3da2292" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-left&quot;}">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3da2292 elementor-invisible"
+											data-id="3da2292" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-06a95d6 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="06a95d6" data-element_type="widget" data-widget_type="icon-box.default">
+												<div
+													class="elementor-element elementor-element-06a95d6 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+													data-id="06a95d6" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-icon-box-wrapper">
 															<div class="elementor-icon-box-icon">
@@ -2180,16 +2208,23 @@
 																		Efficiency Redefined </span>
 																</h4>
 																<p class="elementor-icon-box-description">
-																	Rapid construction without compromise. Our aluminum formwork system drastically reduces construction timelines, averaging just 4-5 days per floor construction cycle.</p>
+																	Rapid construction without compromise. Our aluminum formwork system drastically
+																	reduces construction timelines, averaging just 4-5 days per floor construction cycle.
+																</p>
 															</div>
 														</div>
 													</div>
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-26edf83  fade-in-up" data-id="26edf83" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-up&quot;}">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-26edf83 elementor-invisible"
+											data-id="26edf83" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-50e87ae elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="50e87ae" data-element_type="widget" data-widget_type="icon-box.default">
+												<div
+													class="elementor-element elementor-element-50e87ae elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+													data-id="50e87ae" data-element_type="widget" data-widget_type="icon-box.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-icon-box-wrapper">
 															<div class="elementor-icon-box-icon">
@@ -2202,7 +2237,9 @@
 																		Proven Performance </span>
 																</h4>
 																<p class="elementor-icon-box-description">
-																	Join a global network of successful projects and satisfied clients. Our system's reliability and effectiveness have earned the trust of construction professionals worldwide</p>
+																	Join a global network of successful projects and satisfied clients. Our system's
+																	reliability and effectiveness have earned the trust of construction professionals
+																	worldwide</p>
 															</div>
 														</div>
 													</div>
@@ -2225,25 +2262,44 @@
 							class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-da8545c"
 							data-id="da8545c" data-element_type="column">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-0b28e6d elementor-section-boxed elementor-section-height-default elementor-section-height-default fade-in-up">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-0b28e6d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+									data-id="0b28e6d" data-element_type="section"
+									data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
 									<div class="elementor-background-overlay"></div>
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22f737e" data-id="22f737e" data-element_type="column">
+										<div
+											class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22f737e"
+											data-id="22f737e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-a303171 elementor-widget elementor-widget-heading" data-id="a303171" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-a303171 elementor-widget elementor-widget-heading"
+													data-id="a303171" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
-														<h6 class="elementor-heading-title elementor-size-default">Innovative Aluminum Formwork Construction</h6>
+														<h6 class="elementor-heading-title elementor-size-default">Innovative Aluminum Formwork
+															Construction</h6>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-ac62e45 elementor-widget elementor-widget-heading" data-id="ac62e45" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-ac62e45 elementor-widget elementor-widget-heading"
+													data-id="ac62e45" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
-														<h2 class="elementor-heading-title elementor-size-default">Our revolutionary aluminum formwork system enables the casting of all building components in a single seamless operation.</h2>
+														<h2 class="elementor-heading-title elementor-size-default">Our revolutionary aluminum
+															formwork system enables the casting of all building components in a single seamless
+															operation.</h2>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-f186d53 elementor-align-center elementor-widget elementor-widget-button" data-id="f186d53" data-element_type="widget" data-widget_type="button.default">
+												<div
+													class="elementor-element elementor-element-f186d53 elementor-align-center elementor-widget elementor-widget-button"
+													data-id="f186d53" data-element_type="widget" data-widget_type="button.default">
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
-
+															<!-- <a class="elementor-button elementor-button-link elementor-size-md"
+																href="about/index">
+																<span class="elementor-button-content-wrapper">
+																	<span class="elementor-button-text">Discover more</span>
+																</span>
+															</a> -->
 														</div>
 													</div>
 												</div>
@@ -2255,7 +2311,10 @@
 									class="elementor-section elementor-inner-section elementor-element elementor-element-be5cdd8 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
 									data-id="be5cdd8" data-element_type="section" id="contact_us">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c70a895  fade-in-left" data-id="c70a895" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-left&quot;}">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c70a895 elementor-invisible"
+											data-id="c70a895" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
 													class="elementor-element elementor-element-4a514e6 elementor-widget elementor-widget-heading"
@@ -2313,7 +2372,7 @@
 													<div class="elementor-widget-container">
 														<div class="elementor-button-wrapper">
 															<!-- <a class="elementor-button elementor-button-link elementor-size-md"
-																href="contact/">
+																href="contact/index">
 																<span class="elementor-button-content-wrapper">
 																	<span class="elementor-button-icon">
 																		<i aria-hidden="true" class="mdi mdi-message-processing-outline"></i> </span>
@@ -2325,7 +2384,10 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fe5b6b1  fade-in-right" data-id="fe5b6b1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fade-in-right&quot;}">
+										<div
+											class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fe5b6b1 elementor-invisible"
+											data-id="fe5b6b1" data-element_type="column"
+											data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
 													class="elementor-element elementor-element-640ea81 elementor-widget elementor-widget-heading"
@@ -2421,20 +2483,33 @@
 						</div>
 					</div>
 				</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6171c8e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6171c8e" data-element_type="section">
+				<section
+					class="elementor-section elementor-top-section elementor-element elementor-element-6171c8e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+					data-id="6171c8e" data-element_type="section">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28bcee4" data-id="28bcee4" data-element_type="column">
-							<div class="elementor-widget-wrap elementor-element-populated e-swiper-container">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-46af7c1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46af7c1" data-element_type="section">
+						<div
+							class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28bcee4"
+							data-id="28bcee4" data-element_type="column">
+							<div class="elementor-widget-wrap elementor-element-populated">
+								<section
+									class="elementor-section elementor-inner-section elementor-element elementor-element-46af7c1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+									data-id="46af7c1" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-83105fd  fade-in-up" data-id="83105fd" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fade-in-up&quot;}">
+										<div
+											class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-83105fd elementor-invisible"
+											data-id="83105fd" data-element_type="column"
+											data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-b31e80e elementor-widget elementor-widget-heading" data-id="b31e80e" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-b31e80e elementor-widget elementor-widget-heading"
+													data-id="b31e80e" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
 														<h6 class="elementor-heading-title elementor-size-default">Testimonial</h6>
 													</div>
 												</div>
-												<div class="elementor-element elementor-element-89206b7 elementor-widget elementor-widget-heading" data-id="89206b7" data-element_type="widget" data-widget_type="heading.default">
+												<div
+													class="elementor-element elementor-element-89206b7 elementor-widget elementor-widget-heading"
+													data-id="89206b7" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
 														<h2 class="elementor-heading-title elementor-size-default">What they says about us</h2>
 													</div>
@@ -2443,63 +2518,73 @@
 										</div>
 									</div>
 								</section>
-								<div class="elementor-element elementor-element-45937ef elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-testimonial--align-center elementor-pagination-type-bullets elementor-widget elementor-widget-testimonial-carousel e-widget-swiper  fade-in" data-id="45937ef" data-element_type="widget" data-settings="" data-widget_type="testimonial-carousel.default">
+								<div
+									class="elementor-element elementor-element-45937ef elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-testimonial--align-center elementor-pagination-type-bullets elementor-invisible elementor-widget elementor-widget-testimonial-carousel"
+									data-id="45937ef" data-element_type="widget"
+									data-settings="{&quot;slides_per_view&quot;:&quot;3&quot;,&quot;slides_per_view_tablet&quot;:&quot;2&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;1&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}"
+									data-widget_type="testimonial-carousel.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-swiper">
-											<div id="Testimonial_swiper" class="elementor-main-swiper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden">
-												<div class="swiper-wrapper" style="cursor: grab; transition-duration: 0ms; transform: translate3d(-2191.67px, 0px, 0px);" id="swiper-wrapper-a3e8a3037beffee8" aria-live="off">
-													<div class="swiper-slide" data-swiper-slide-index="1" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="2 / 4">
+											<div class="elementor-main-swiper swiper">
+												<div class="swiper-wrapper">
+													<div class="swiper-slide">
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Precision and strength go hand in hand with Five Star Formwork System. Our structures not only look incredible but also withstand the test of time. A reliable partner for any construction endeavor.</div>
+																	Five Star Formwork System transformed our project timeline. What used to take weeks
+																	now takes days, all while maintaining exceptional quality. A game-changer for the
+																	industry!</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Diksha</span></cite>
+																<cite class="elementor-testimonial__cite"><span
+																		class="elementor-testimonial__name">Saurabh</span></cite>
 															</div>
 														</div>
 													</div>
-													<div class="swiper-slide" data-swiper-slide-index="2" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="3 / 4">
+													<div class="swiper-slide">
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Efficiency at its finest! The aluminum formwork technology from Five Star Formwork System has not only boosted our productivity but has also elevated the aesthetics of our projects. Highly recommended.</div>
+																	Precision and strength go hand in hand with Five Star Formwork System. Our structures
+																	not only look incredible but also withstand the test of time. A reliable partner for
+																	any construction endeavor.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Suman</span></cite>
+																<cite class="elementor-testimonial__cite"><span
+																		class="elementor-testimonial__name">Diksha</span></cite>
 															</div>
 														</div>
 													</div>
-													<div class="swiper-slide" data-swiper-slide-index="3" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="4 / 4">
+													<div class="swiper-slide">
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Incredible results in record time. Thanks to Five Star Formwork System, we completed multiple floors ahead of schedule, without compromising on quality. This system has reshaped our approach to construction.</div>
+																	Efficiency at its finest! The aluminum formwork technology from Five Star Formwork
+																	System has not only boosted our productivity but has also elevated the aesthetics of
+																	our projects. Highly recommended.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Akhilesh</span></cite>
+																<cite class="elementor-testimonial__cite"><span
+																		class="elementor-testimonial__name">Suman</span></cite>
 															</div>
 														</div>
 													</div>
-													<div class="swiper-slide" data-swiper-slide-index="0" style="width: 403.333px; margin-right: 35px;" role="group" aria-label="1 / 4">
+													<div class="swiper-slide">
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Five Star Formwork System transformed our project timeline. What used to take weeks now takes days, all while maintaining exceptional quality. A game-changer for the industry!</div>
+																	Incredible results in record time. Thanks to Five Star Formwork System, we completed
+																	multiple floors ahead of schedule, without compromising on quality. This system has
+																	reshaped our approach to construction.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Saurabh</span></cite>
+																<cite class="elementor-testimonial__cite"><span
+																		class="elementor-testimonial__name">Akhilesh</span></cite>
 															</div>
 														</div>
 													</div>
-
-
-
-
 												</div>
-												<div class="swiper-pagination">
-
-												</div>
+												<div class="swiper-pagination"></div>
 											</div>
 										</div>
 									</div>
@@ -2508,14 +2593,22 @@
 						</div>
 					</div>
 				</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2af891d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2af891d" data-element_type="section">
+				<section
+					class="elementor-section elementor-top-section elementor-element elementor-element-2af891d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+					data-id="2af891d" data-element_type="section">
 					<div class="elementor-container elementor-column-gap-default">
-						<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-400c553" data-id="400c553" data-element_type="column">
+						<div
+							class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-400c553"
+							data-id="400c553" data-element_type="column">
 							<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0f04ade elementor-widget elementor-widget-google_maps" data-id="0f04ade" data-element_type="widget" data-widget_type="google_maps.default">
+								<div class="elementor-element elementor-element-0f04ade elementor-widget elementor-widget-google_maps"
+									data-id="0f04ade" data-element_type="widget" data-widget_type="google_maps.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-custom-embed">
-											<iframe loading="lazy" src="https://maps.google.com/maps?q=Shree%20Swarnabhaa%20Industries%20Private%20Limited&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="Shree Swarnabhaa Industries Private Limited" aria-label="Shree Swarnabhaa Industries Private Limited"></iframe>
+											<iframe data-lazyloaded="1" src="about:blank" loading="lazy"
+												src="https://maps.google.com/maps?q=Shree%20Swarnabhaa%20Industries%20Private%20Limited&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near"
+												title="Shree Swarnabhaa Industries Private Limited"
+												aria-label="Shree Swarnabhaa Industries Private Limited"></iframe>
 										</div>
 									</div>
 								</div>
@@ -2721,7 +2814,7 @@
 											<div class="elementor-widget-container">
 												<ul class="elementor-icon-list-items">
 													<li class="elementor-icon-list-item">
-														<a href=""><span class="elementor-icon-list-icon">
+														<a href="index"><span class="elementor-icon-list-icon">
 																<i aria-hidden="true" class="fas fa-arrow-alt-circle-right"></i> </span>
 															<span class="elementor-icon-list-text">Home</span>
 														</a>
@@ -2819,100 +2912,760 @@
 			</div>
 		</section>
 	</div>
-
-	<script src="assets/js/jquery.js"></script>
-	<script src="assets/js/swiper.js"></script>
-
-	<script>
-		$(".elementor-menu-toggle").click(function() {
-			$(".elementor-nav-menu--main").css("display", "flex");
-		});
-		$(".close_nav_bar,.elementor-nav-menu--main .menu-item").click(function() {
-			if (window.innerWidth < 991) {
-				$(".elementor-nav-menu--main").css("display", "none");
+	<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+	<script type="speculationrules">
+		{
+			"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]
+		}
+		</script>
+	<script type="litespeed/javascript">
+		const lazyloadRunObserver=()=>{
+			const lazyloadBackgrounds=document.querySelectorAll(`.e-con.e-parent:not(.e-lazyloaded)`);
+			const lazyloadBackgroundObserver=new IntersectionObserver((entries)=>{entries.forEach((entry)=>{if(entry.isIntersecting){let lazyloadBackground=entry.target;
+			if(lazyloadBackground){
+				lazyloadBackground.classList.add('e-lazyloaded')
 			}
-		});
-	</script>
+			lazyloadBackgroundObserver.unobserve(entry.target)}})},{rootMargin:'200px 0px 200px 0px'});
+			lazyloadBackgrounds.forEach((lazyloadBackground)=>{lazyloadBackgroundObserver.observe(lazyloadBackground)})};const events=['DOMContentLiteSpeedLoaded','elementor/lazyload/observe',];events.forEach((event)=>{document.addEventListener(event,lazyloadRunObserver)})
+		</script>
+	<script id="elementskit-framework-js-frontend-js-after"
+		type="litespeed/javascript">var elementskit={resturl:'wp-json/elementskit/v1/',}</script>
+	<script id="wp-i18n-js-after"
+		type="litespeed/javascript">wp.i18n.setLocaleData({'text direction\u0004ltr':['ltr']})</script>
+	<script id="elementor-pro-frontend-js-before" type="litespeed/javascript">
+		var ElementorProFrontendConfig = {
+        "ajaxurl": "wp-admin/admin-ajax.php",
+        "nonce": "12921df0c7",
+        "urls": {
+            "assets": "wp-content\/plugins\/pro-elements\/assets\/",
+            "rest": "wp-json\/"
+        },
+        "settings": {
+            "lazy_load_background_images": true
+        },
+        "popup": {
+            "hasPopUps": false
+        },
+        "shareButtonsNetworks": {
+            "facebook": {
+                "title": "Facebook",
+                "has_counter": true
+            },
+            "twitter": {
+                "title": "Twitter"
+            },
+            "linkedin": {
+                "title": "LinkedIn",
+                "has_counter": true
+            },
+            "pinterest": {
+                "title": "Pinterest",
+                "has_counter": true
+            },
+            "reddit": {
+                "title": "Reddit",
+                "has_counter": true
+            },
+            "vk": {
+                "title": "VK",
+                "has_counter": true
+            },
+            "odnoklassniki": {
+                "title": "OK",
+                "has_counter": true
+            },
+            "tumblr": {
+                "title": "Tumblr"
+            },
+            "digg": {
+                "title": "Digg"
+            },
+            "skype": {
+                "title": "Skype"
+            },
+            "stumbleupon": {
+                "title": "StumbleUpon",
+                "has_counter": true
+            },
+            "mix": {
+                "title": "Mix"
+            },
+            "telegram": {
+                "title": "Telegram"
+            },
+            "pocket": {
+                "title": "Pocket",
+                "has_counter": true
+            },
+            "xing": {
+                "title": "XING",
+                "has_counter": true
+            },
+            "whatsapp": {
+                "title": "WhatsApp"
+            },
+            "email": {
+                "title": "Email"
+            },
+            "print": {
+                "title": "Print"
+            },
+            "x-twitter": {
+                "title": "X"
+            },
+            "threads": {
+                "title": "Threads"
+            }
+        },
+        "facebook_sdk": {
+            "lang": "en_US",
+            "app_id": ""
+        },
+        "lottie": {
+            "defaultAnimationUrl": "wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"
+        }
+    };
+</script>
+	<script id="elementor-frontend-js-before" type="litespeed/javascript">
+		var elementorFrontendConfig = {
+        "environmentMode": {
+            "edit": false,
+            "wpPreview": false,
+            "isScriptDebug": false
+        },
+        "i18n": {
+            "shareOnFacebook": "Share on Facebook",
+            "shareOnTwitter": "Share on Twitter",
+            "pinIt": "Pin it",
+            "download": "Download",
+            "downloadImage": "Download image",
+            "fullscreen": "Fullscreen",
+            "zoom": "Zoom",
+            "share": "Share",
+            "playVideo": "Play Video",
+            "previous": "Previous",
+            "next": "Next",
+            "close": "Close",
+            "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right",
+            "a11yCarouselPrevSlideMessage": "Previous slide",
+            "a11yCarouselNextSlideMessage": "Next slide",
+            "a11yCarouselFirstSlideMessage": "This is the first slide",
+            "a11yCarouselLastSlideMessage": "This is the last slide",
+            "a11yCarouselPaginationBulletMessage": "Go to slide"
+        },
+        "is_rtl": false,
+        "breakpoints": {
+            "xs": 0,
+            "sm": 480,
+            "md": 768,
+            "lg": 1025,
+            "xl": 1440,
+            "xxl": 1600
+        },
+        "responsive": {
+            "breakpoints": {
+                "mobile": {
+                    "label": "Mobile Portrait",
+                    "value": 767,
+                    "default_value": 767,
+                    "direction": "max",
+                    "is_enabled": true
+                },
+                "mobile_extra": {
+                    "label": "Mobile Landscape",
+                    "value": 880,
+                    "default_value": 880,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "tablet": {
+                    "label": "Tablet Portrait",
+                    "value": 1024,
+                    "default_value": 1024,
+                    "direction": "max",
+                    "is_enabled": true
+                },
+                "tablet_extra": {
+                    "label": "Tablet Landscape",
+                    "value": 1200,
+                    "default_value": 1200,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "laptop": {
+                    "label": "Laptop",
+                    "value": 1366,
+                    "default_value": 1366,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "widescreen": {
+                    "label": "Widescreen",
+                    "value": 2400,
+                    "default_value": 2400,
+                    "direction": "min",
+                    "is_enabled": false
+                }
+            },
+            "hasCustomBreakpoints": false
+        },
+        "version": "3.25.3",
+        "is_static": false,
+        "experimentalFeatures": {
+            "additional_custom_breakpoints": true,
+            "e_swiper_latest": true,
+            "e_nested_atomic_repeaters": true,
+            "e_optimized_control_loading": true,
+            "e_onboarding": true,
+            "e_css_smooth_scroll": true,
+            "theme_builder_v2": true,
+            "hello-theme-header-footer": true,
+            "home_screen": true,
+            "landing-pages": true,
+            "nested-elements": true,
+            "editor_v2": true,
+            "link-in-bio": true,
+            "floating-buttons": true
+        },
+        "urls": {
+            "assets": "wp-content\/plugins\/elementor\/assets\/",
+            "ajaxurl": "wp-admin\/admin-ajax.php",
+            "uploadUrl": "/wp-content/uploads"
+        },
+        "nonces": {
+            "floatingButtonsClickTracking": "d05fcf399c"
+        },
+        "swiperClass": "swiper",
+        "settings": {
+            "page": [],
+            "editorPreferences": []
+        },
+        "kit": {
+            "body_background_background": "classic",
+            "active_breakpoints": [
+                "viewport_mobile",
+                "viewport_tablet"
+            ],
+            "global_image_lightbox": "yes",
+            "lightbox_enable_counter": "yes",
+            "lightbox_enable_fullscreen": "yes",
+            "lightbox_enable_zoom": "yes",
+            "lightbox_enable_share": "yes",
+            "lightbox_title_src": "title",
+            "lightbox_description_src": "description",
+            "hello_header_logo_type": "title",
+            "hello_header_menu_layout": "horizontal",
+            "hello_footer_logo_type": "logo"
+        },
+        "post": {
+            "id": 97,
+            "title": "Five%20Star%20Formwork%20\u2013%20Best%20Formwork%20Solutions",
+            "excerpt": "",
+            "featuredImage": false
+        }
+    }
+</script>
+	<!-- <script id="elementskit-elementor-js-extra"
+		type="litespeed/javascript">var ekit_config={"ajaxurl":"wp-admin\/admin-ajax.php","nonce":"07e28b453d"}</script> -->
+	<script data-no-optimize="1"
+		type="1191501f75ba09a8d0808bb5-text/javascript">
+		! function(t, e) {
+			"object" == typeof exports && "undefined" != typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define(e) : (t = "undefined" != typeof globalThis ? globalThis : t || self).LazyLoad = e()
+		}(this, function() {
+			"use strict";
 
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-	<script>
-		AOS.init({
-			duration: 800, // values from 0 to 3000, with step 50ms
-			once: true, // whether animation should happen only once - while scrolling down
-		});
-	</script>
-	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			const animation_elements = document.querySelectorAll('.fade-in-up, .fade-in-left, .fade-in-right, .stagger-children,.fade-in-down,.bounce-in,.fade-in');
-
-			const observer = new IntersectionObserver((entries) => {
-				entries.forEach((entry) => {
-					if (entry.isIntersecting) {
-						entry.target.classList.add('visible');
-						// Optional: stop observing the element once it's visible
-						observer.unobserve(entry.target);
+			function e() {
+				return (e = Object.assign || function(t) {
+					for (var e = 1; e < arguments.length; e++) {
+						var n, a = arguments[e];
+						for (n in a) Object.prototype.hasOwnProperty.call(a, n) && (t[n] = a[n])
 					}
-				});
-			}, {
-				threshold: 0.1 // Trigger when 10% of the element is visible
-			});
-
-			for (let i = 0; i < animation_elements.length; i++) {
-				const el = animation_elements[i];
-				observer.observe(el);
+					return t
+				}).apply(this, arguments)
 			}
-		});
 
-		const Testimonial_swiper = new Swiper('#Testimonial_swiper', {
-			// Optional parameters
-			direction: 'horizontal',
-			loop: true,
+			function i(t) {
+				return e({}, it, t)
+			}
 
-			// If we need pagination
-			pagination: {
-				el: '.swiper-pagination',
-			},
+			function o(t, e) {
+				var n, a = "LazyLoad::Initialized",
+					i = new t(e);
+				try {
+					n = new CustomEvent(a, {
+						detail: {
+							instance: i
+						}
+					})
+				} catch (t) {
+					(n = document.createEvent("CustomEvent")).initCustomEvent(a, !1, !1, {
+						instance: i
+					})
+				}
+				window.dispatchEvent(n)
+			}
 
-			// Navigation arrows
-			// navigation: {
-			// 	nextEl: '.swiper-button-next',
-			// 	prevEl: '.swiper-button-prev',
-			// },
+			function l(t, e) {
+				return t.getAttribute(gt + e)
+			}
 
-			// And if we need scrollbar
-			// scrollbar: {
-			// 	el: '.swiper-scrollbar',
-			// },
+			function c(t) {
+				return l(t, bt)
+			}
 
-			breakpoints: {
+			function s(t, e) {
+				return function(t, e, n) {
+					e = gt + e;
+					null !== n ? t.setAttribute(e, n) : t.removeAttribute(e)
+				}(t, bt, e)
+			}
 
-				// when window width is >= 480px
-				480: {
-					slidesPerView: 1,
-					spaceBetween: 30
-				},
-				// when window width is >= 640px
-				640: {
-					slidesPerView: 2,
-					spaceBetween: 40
-				},
-				940: {
-					slidesPerView: 3,
-					spaceBetween: 40
+			function r(t) {
+				return s(t, null), 0
+			}
+
+			function u(t) {
+				return null === c(t)
+			}
+
+			function d(t) {
+				return c(t) === vt
+			}
+
+			function f(t, e, n, a) {
+				t && (void 0 === a ? void 0 === n ? t(e) : t(e, n) : t(e, n, a))
+			}
+
+			function _(t, e) {
+				nt ? t.classList.add(e) : t.className += (t.className ? " " : "") + e
+			}
+
+			function v(t, e) {
+				nt ? t.classList.remove(e) : t.className = t.className.replace(new RegExp("(^|\\s+)" + e + "(\\s+|$)"), " ").replace(/^\s+/, "").replace(/\s+$/, "")
+			}
+
+			function g(t) {
+				return t.llTempImage
+			}
+
+			function b(t, e) {
+				!e || (e = e._observer) && e.unobserve(t)
+			}
+
+			function p(t, e) {
+				t && (t.loadingCount += e)
+			}
+
+			function h(t, e) {
+				t && (t.toLoadCount = e)
+			}
+
+			function n(t) {
+				for (var e, n = [], a = 0; e = t.children[a]; a += 1) "SOURCE" === e.tagName && n.push(e);
+				return n
+			}
+
+			function m(t, e) {
+				(t = t.parentNode) && "PICTURE" === t.tagName && n(t).forEach(e)
+			}
+
+			function a(t, e) {
+				n(t).forEach(e)
+			}
+
+			function E(t) {
+				return !!t[st]
+			}
+
+			function I(t) {
+				return t[st]
+			}
+
+			function y(t) {
+				return delete t[st]
+			}
+
+			function A(e, t) {
+				var n;
+				E(e) || (n = {}, t.forEach(function(t) {
+					n[t] = e.getAttribute(t)
+				}), e[st] = n)
+			}
+
+			function k(a, t) {
+				var i;
+				E(a) && (i = I(a), t.forEach(function(t) {
+					var e, n;
+					e = a, (t = i[n = t]) ? e.setAttribute(n, t) : e.removeAttribute(n)
+				}))
+			}
+
+			function L(t, e, n) {
+				_(t, e.class_loading), s(t, ut), n && (p(n, 1), f(e.callback_loading, t, n))
+			}
+
+			function w(t, e, n) {
+				n && t.setAttribute(e, n)
+			}
+
+			function x(t, e) {
+				w(t, ct, l(t, e.data_sizes)), w(t, rt, l(t, e.data_srcset)), w(t, ot, l(t, e.data_src))
+			}
+
+			function O(t, e, n) {
+				var a = l(t, e.data_bg_multi),
+					i = l(t, e.data_bg_multi_hidpi);
+				(a = at && i ? i : a) && (t.style.backgroundImage = a, n = n, _(t = t, (e = e).class_applied), s(t, ft), n && (e.unobserve_completed && b(t, e), f(e.callback_applied, t, n)))
+			}
+
+			function N(t, e) {
+				!e || 0 < e.loadingCount || 0 < e.toLoadCount || f(t.callback_finish, e)
+			}
+
+			function C(t, e, n) {
+				t.addEventListener(e, n), t.llEvLisnrs[e] = n
+			}
+
+			function M(t) {
+				return !!t.llEvLisnrs
+			}
+
+			function z(t) {
+				if (M(t)) {
+					var e, n, a = t.llEvLisnrs;
+					for (e in a) {
+						var i = a[e];
+						n = e, i = i, t.removeEventListener(n, i)
+					}
+					delete t.llEvLisnrs
 				}
 			}
-		});
-		const hero_swiper = new Swiper('#hero_swiper', {
 
-			direction: 'horizontal',
-			loop: true,
-			autoplay: {
-				delay: 5000,
-			},
-			effect: 'fade',
+			function R(t, e, n) {
+				var a;
+				delete t.llTempImage, p(n, -1), (a = n) && --a.toLoadCount, v(t, e.class_loading), e.unobserve_completed && b(t, n)
+			}
+
+			function T(o, r, c) {
+				var l = g(o) || o;
+				M(l) || function(t, e, n) {
+					M(t) || (t.llEvLisnrs = {});
+					var a = "VIDEO" === t.tagName ? "loadeddata" : "load";
+					C(t, a, e), C(t, "error", n)
+				}(l, function(t) {
+					var e, n, a, i;
+					n = r, a = c, i = d(e = o), R(e, n, a), _(e, n.class_loaded), s(e, dt), f(n.callback_loaded, e, a), i || N(n, a), z(l)
+				}, function(t) {
+					var e, n, a, i;
+					n = r, a = c, i = d(e = o), R(e, n, a), _(e, n.class_error), s(e, _t), f(n.callback_error, e, a), i || N(n, a), z(l)
+				})
+			}
+
+			function G(t, e, n) {
+				var a, i, o, r, c;
+				t.llTempImage = document.createElement("IMG"), T(t, e, n), E(c = t) || (c[st] = {
+					backgroundImage: c.style.backgroundImage
+				}), o = n, r = l(a = t, (i = e).data_bg), c = l(a, i.data_bg_hidpi), (r = at && c ? c : r) && (a.style.backgroundImage = 'url("'.concat(r, '")'), g(a).setAttribute(ot, r), L(a, i, o)), O(t, e, n)
+			}
+
+			function D(t, e, n) {
+				var a;
+				T(t, e, n), a = e, e = n, (t = It[(n = t).tagName]) && (t(n, a), L(n, a, e))
+			}
+
+			function V(t, e, n) {
+				var a;
+				a = t, (-1 < yt.indexOf(a.tagName) ? D : G)(t, e, n)
+			}
+
+			function F(t, e, n) {
+				var a;
+				t.setAttribute("loading", "lazy"), T(t, e, n), a = e, (e = It[(n = t).tagName]) && e(n, a), s(t, vt)
+			}
+
+			function j(t) {
+				t.removeAttribute(ot), t.removeAttribute(rt), t.removeAttribute(ct)
+			}
+
+			function P(t) {
+				m(t, function(t) {
+					k(t, Et)
+				}), k(t, Et)
+			}
+
+			function S(t) {
+				var e;
+				(e = At[t.tagName]) ? e(t): E(e = t) && (t = I(e), e.style.backgroundImage = t.backgroundImage)
+			}
+
+			function U(t, e) {
+				var n;
+				S(t), n = e, u(e = t) || d(e) || (v(e, n.class_entered), v(e, n.class_exited), v(e, n.class_applied), v(e, n.class_loading), v(e, n.class_loaded), v(e, n.class_error)), r(t), y(t)
+			}
+
+			function $(t, e, n, a) {
+				var i;
+				n.cancel_on_exit && (c(t) !== ut || "IMG" === t.tagName && (z(t), m(i = t, function(t) {
+					j(t)
+				}), j(i), P(t), v(t, n.class_loading), p(a, -1), r(t), f(n.callback_cancel, t, e, a)))
+			}
+
+			function q(t, e, n, a) {
+				var i, o, r = (o = t, 0 <= pt.indexOf(c(o)));
+				s(t, "entered"), _(t, n.class_entered), v(t, n.class_exited), i = t, o = a, n.unobserve_entered && b(i, o), f(n.callback_enter, t, e, a), r || V(t, n, a)
+			}
+
+			function H(t) {
+				return t.use_native && "loading" in HTMLImageElement.prototype
+			}
+
+			function B(t, i, o) {
+				t.forEach(function(t) {
+					return (a = t).isIntersecting || 0 < a.intersectionRatio ? q(t.target, t, i, o) : (e = t.target, n = t, a = i, t = o, void(u(e) || (_(e, a.class_exited), $(e, n, a, t), f(a.callback_exit, e, n, t))));
+					var e, n, a
+				})
+			}
+
+			function J(e, n) {
+				var t;
+				et && !H(e) && (n._observer = new IntersectionObserver(function(t) {
+					B(t, e, n)
+				}, {
+					root: (t = e).container === document ? null : t.container,
+					rootMargin: t.thresholds || t.threshold + "px"
+				}))
+			}
+
+			function K(t) {
+				return Array.prototype.slice.call(t)
+			}
+
+			function Q(t) {
+				return t.container.querySelectorAll(t.elements_selector)
+			}
+
+			function W(t) {
+				return c(t) === _t
+			}
+
+			function X(t, e) {
+				return e = t || Q(e), K(e).filter(u)
+			}
+
+			function Y(e, t) {
+				var n;
+				(n = Q(e), K(n).filter(W)).forEach(function(t) {
+					v(t, e.class_error), r(t)
+				}), t.update()
+			}
+
+			function t(t, e) {
+				var n, a, t = i(t);
+				this._settings = t, this.loadingCount = 0, J(t, this), n = t, a = this, Z && window.addEventListener("online", function() {
+					Y(n, a)
+				}), this.update(e)
+			}
+			var Z = "undefined" != typeof window,
+				tt = Z && !("onscroll" in window) || "undefined" != typeof navigator && /(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),
+				et = Z && "IntersectionObserver" in window,
+				nt = Z && "classList" in document.createElement("p"),
+				at = Z && 1 < window.devicePixelRatio,
+				it = {
+					elements_selector: ".lazy",
+					container: tt || Z ? document : null,
+					threshold: 300,
+					thresholds: null,
+					data_src: "src",
+					data_srcset: "srcset",
+					data_sizes: "sizes",
+					data_bg: "bg",
+					data_bg_hidpi: "bg-hidpi",
+					data_bg_multi: "bg-multi",
+					data_bg_multi_hidpi: "bg-multi-hidpi",
+					data_poster: "poster",
+					class_applied: "applied",
+					class_loading: "litespeed-loading",
+					class_loaded: "litespeed-loaded",
+					class_error: "error",
+					class_entered: "entered",
+					class_exited: "exited",
+					unobserve_completed: !0,
+					unobserve_entered: !1,
+					cancel_on_exit: !0,
+					callback_enter: null,
+					callback_exit: null,
+					callback_applied: null,
+					callback_loading: null,
+					callback_loaded: null,
+					callback_error: null,
+					callback_finish: null,
+					callback_cancel: null,
+					use_native: !1
+				},
+				ot = "src",
+				rt = "srcset",
+				ct = "sizes",
+				lt = "poster",
+				st = "llOriginalAttrs",
+				ut = "loading",
+				dt = "loaded",
+				ft = "applied",
+				_t = "error",
+				vt = "native",
+				gt = "data-",
+				bt = "ll-status",
+				pt = [ut, dt, ft, _t],
+				ht = [ot],
+				mt = [ot, lt],
+				Et = [ot, rt, ct],
+				It = {
+					IMG: function(t, e) {
+						m(t, function(t) {
+							A(t, Et), x(t, e)
+						}), A(t, Et), x(t, e)
+					},
+					IFRAME: function(t, e) {
+						A(t, ht), w(t, ot, l(t, e.data_src))
+					},
+					VIDEO: function(t, e) {
+						a(t, function(t) {
+							A(t, ht), w(t, ot, l(t, e.data_src))
+						}), A(t, mt), w(t, lt, l(t, e.data_poster)), w(t, ot, l(t, e.data_src)), t.load()
+					}
+				},
+				yt = ["IMG", "IFRAME", "VIDEO"],
+				At = {
+					IMG: P,
+					IFRAME: function(t) {
+						k(t, ht)
+					},
+					VIDEO: function(t) {
+						a(t, function(t) {
+							k(t, ht)
+						}), k(t, mt), t.load()
+					}
+				},
+				kt = ["IMG", "IFRAME", "VIDEO"];
+			return t.prototype = {
+				update: function(t) {
+					var e, n, a, i = this._settings,
+						o = X(t, i);
+					{
+						if (h(this, o.length), !tt && et) return H(i) ? (e = i, n = this, o.forEach(function(t) {
+							-1 !== kt.indexOf(t.tagName) && F(t, e, n)
+						}), void h(n, 0)) : (t = this._observer, i = o, t.disconnect(), a = t, void i.forEach(function(t) {
+							a.observe(t)
+						}));
+						this.loadAll(o)
+					}
+				},
+				destroy: function() {
+					this._observer && this._observer.disconnect(), Q(this._settings).forEach(function(t) {
+						y(t)
+					}), delete this._observer, delete this._settings, delete this.loadingCount, delete this.toLoadCount
+				},
+				loadAll: function(t) {
+					var e = this,
+						n = this._settings;
+					X(t, n).forEach(function(t) {
+						b(t, e), V(t, n, e)
+					})
+				},
+				restoreAll: function() {
+					var e = this._settings;
+					Q(e).forEach(function(t) {
+						U(t, e)
+					})
+				}
+			}, t.load = function(t, e) {
+				e = i(e);
+				V(t, e)
+			}, t.resetStatus = function(t) {
+				r(t)
+			}, Z && function(t, e) {
+				if (e)
+					if (e.length)
+						for (var n, a = 0; n = e[a]; a += 1) o(t, n);
+					else o(t, e)
+			}(t, window.lazyLoadOptions), t
 		});
+		! function(e, t) {
+			"use strict";
+
+			function a() {
+				t.body.classList.add("litespeed_lazyloaded")
+			}
+
+			function n() {
+				console.log("[LiteSpeed] Start Lazy Load Images"), d = new LazyLoad({
+					elements_selector: "[data-lazyloaded]",
+					callback_finish: a
+				}), o = function() {
+					d.update()
+				}, e.MutationObserver && new MutationObserver(o).observe(t.documentElement, {
+					childList: !0,
+					subtree: !0,
+					attributes: !0
+				})
+			}
+			var d, o;
+			e.addEventListener ? e.addEventListener("load", n, !1) : e.attachEvent("onload", n)
+		}(window, document);
 	</script>
+	<!-- <script data-no-optimize="1"
+		type="1191501f75ba09a8d0808bb5-text/javascript">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("wp-content/plugins/litespeed-cache/guest.vary.html",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script> -->
+	<script data-optimized="1" type="litespeed/javascript"
+		data-src="wp-content/litespeed/js/dd6cf103fc144825937baca4d454ece1.js?ver=02216"></script>
+	<script
+		type="1191501f75ba09a8d0808bb5-text/javascript">
+		const litespeed_ui_events = ["mouseover", "click", "keydown", "wheel", "touchmove", "touchstart"];
+		var urlCreator = window.URL || window.webkitURL;
+
+		function litespeed_load_delayed_js_force() {
+			console.log("[LiteSpeed] Start Load JS Delayed"), litespeed_ui_events.forEach(e => {
+				window.removeEventListener(e, litespeed_load_delayed_js_force, {
+					passive: !0
+				})
+			}), document.querySelectorAll("iframe[data-litespeed-src]").forEach(e => {
+				e.setAttribute("src", e.getAttribute("data-litespeed-src"))
+			}), "loading" == document.readyState ? window.addEventListener("DOMContentLoaded", litespeed_load_delayed_js) : litespeed_load_delayed_js()
+		}
+		litespeed_ui_events.forEach(e => {
+			window.addEventListener(e, litespeed_load_delayed_js_force, {
+				passive: !0
+			})
+		});
+		async function litespeed_load_delayed_js() {
+			let t = [];
+			for (var d in document.querySelectorAll('script[type="litespeed/javascript"]').forEach(e => {
+					t.push(e)
+				}), t) await new Promise(e => litespeed_load_one(t[d], e));
+			document.dispatchEvent(new Event("DOMContentLiteSpeedLoaded")), window.dispatchEvent(new Event("DOMContentLiteSpeedLoaded"))
+		}
+
+		function litespeed_load_one(t, e) {
+			console.log("[LiteSpeed] Load ", t);
+			var d = document.createElement("script");
+			d.addEventListener("load", e), d.addEventListener("error", e), t.getAttributeNames().forEach(e => {
+				"type" != e && d.setAttribute("data-src" == e ? "src" : e, t.getAttribute(e))
+			});
+			let a = !(d.type = "text/javascript");
+			!d.src && t.textContent && (d.src = litespeed_inline2src(t.textContent), a = !0), t.after(d), t.remove(), a && e()
+		}
+
+		function litespeed_inline2src(t) {
+			try {
+				var d = urlCreator.createObjectURL(new Blob([t.replace(/^(?:<!--)?(.*?)(?:-->)?$/gm, "$1")], {
+					type: "text/javascript"
+				}))
+			} catch (e) {
+				d = "data:text/javascript;base64," + btoa(t.replace(/^(?:<!--)?(.*?)(?:-->)?$/gm, "$1"))
+			}
+			return d
+		}
+	</script>
+	<script src="cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+		data-cf-settings="1191501f75ba09a8d0808bb5-|49" defer></script>
 </body>
 <!-- Mirrored from  by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Oct 2025 07:11:54 GMT -->
 
