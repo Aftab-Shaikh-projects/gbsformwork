@@ -17,7 +17,7 @@
 		href="wp-content/litespeed/css/d570fda4ea76cd953cfb210bbfe78f89ab4b.css?ver=02216" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Five Star Formwork &#8211; Best Formwork Solutions</title>
+	<title>GBS Formwork Systems</title>
 	<meta name='robots' content='max-image-preview:large' />
 	<style>
 		img:is([sizes="auto" i], [sizes^="auto," i]) {
