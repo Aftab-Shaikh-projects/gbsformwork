@@ -4,14 +4,14 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-	<script data-no-optimize="1" type="1191501f75ba09a8d0808bb5-text/javascript">
+	<!-- <script data-no-optimize="1" type="1191501f75ba09a8d0808bb5-text/javascript">
 		var litespeed_docref = sessionStorage.getItem("litespeed_docref");
 		litespeed_docref && (Object.defineProperty(document, "referrer", {
 			get: function() {
 				return litespeed_docref
 			}
 		}), sessionStorage.removeItem("litespeed_docref"));
-	</script>
+	</script> -->
 	<meta charset="UTF-8">
 	<link data-optimized="2" rel="stylesheet"
 		href="wp-content/litespeed/css/d570fda4ea76cd953cfb210bbfe78f89ab4b.css?ver=02216" />
@@ -458,13 +458,15 @@
 	</style>
 
 	<style>
+		/* FIX: Add this to your CSS */
+		/* FIX: A stronger global fix for overflow */
+		html,
 		body {
+			width: 100%;
 			overflow-x: hidden;
 		}
 
-		/* --- General Animation Setup --- */
-		/* Elements start as invisible and slightly moved */
-		/*  */
+
 		.fade-in-up {
 			opacity: 0;
 			transform: translateY(100%);
@@ -538,9 +540,7 @@
 		/* Add more if needed */
 	</style>
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-	<!-- <script type="litespeed/javascript" data-src="wp-includes/js/jquery/jquery.min.js"
-		id="jquery-core-js"></script> -->
-	<!-- <meta name="generator" content="WordPress 6.8.2" /> -->
+
 
 	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
 		href="wp-json/oembed/1.0/embed67bf.json" />
@@ -616,7 +616,7 @@
 										<div
 											class="elementor-element elementor-element-7bdcc948 elementor-nav-menu__align-end elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"
 											data-id="7bdcc948" data-element_type="widget"
-											data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-angle-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+											data-settings=""
 											data-widget_type="nav-menu.default">
 											<div class="elementor-widget-container">
 												<nav aria-label="Menu"
@@ -710,7 +710,8 @@
 							<div class="swiper-slide ">
 								<div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded hero_cust_animation" style="background-image: url(wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png);"></div>
 							</div>
-						</div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+						</div>
+						<!-- <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span> -->
 					</div>
 					<div class="elementor-background-overlay">
 
@@ -2834,34 +2835,57 @@
 		});
 	</script>
 
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-	<script>
+	<!-- <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" /> -->
+	<!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
+	<!-- <script>
 		AOS.init({
 			duration: 800, // values from 0 to 3000, with step 50ms
 			once: true, // whether animation should happen only once - while scrolling down
 		});
-	</script>
+	</script> -->
 	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			const animation_elements = document.querySelectorAll('.fade-in-up, .fade-in-left, .fade-in-right, .stagger-children,.fade-in-down,.bounce-in,.fade-in');
+		$(function() {
+			// Select all elements you want to animate
+			const $animation_elements = $('.fade-in-up, .fade-in-left, .fade-in-right, .stagger-children, .fade-in-down, .bounce-in, .fade-in');
 
-			const observer = new IntersectionObserver((entries) => {
-				entries.forEach((entry) => {
-					if (entry.isIntersecting) {
-						entry.target.classList.add('visible');
-						// Optional: stop observing the element once it's visible
-						observer.unobserve(entry.target);
+			// Get the window object
+			const $window = $(window);
+
+			function checkElementsAreOnScreen() {
+				const window_height = $window.height();
+				const window_top_position = $window.scrollTop();
+				const window_bottom_position = (window_top_position + window_height);
+
+				// Find all elements that need to be animated and are not yet visible
+				// This is the efficient part: it only checks elements that don't have the .visible class yet
+				const $elements_to_animate = $animation_elements.filter(':not(.visible)');
+
+				// If all elements are already visible, we can stop checking
+				if ($elements_to_animate.length === 0) {
+					$window.off('scroll resize', checkElementsAreOnScreen);
+					return;
+				}
+
+				$.each($elements_to_animate, function() {
+					const $element = $(this);
+					const element_height = $element.outerHeight();
+					const element_top_position = $element.offset().top;
+					const element_bottom_position = (element_top_position + element_height);
+
+					// Check if any part of the element is within the viewport
+					if ((element_bottom_position >= window_top_position) &&
+						(element_top_position <= window_bottom_position)) {
+						$element.addClass('visible');
 					}
 				});
-			}, {
-				threshold: 0.1 // Trigger when 10% of the element is visible
-			});
-
-			for (let i = 0; i < animation_elements.length; i++) {
-				const el = animation_elements[i];
-				observer.observe(el);
 			}
+
+			// Attach the function to the scroll and resize events
+			$window.on('scroll resize', checkElementsAreOnScreen);
+
+			// Trigger the check once on page load to show elements already in view
+			// A small timeout helps ensure all page elements have their final positions
+			setTimeout(checkElementsAreOnScreen, 25);
 		});
 
 		const Testimonial_swiper = new Swiper('#Testimonial_swiper', {
