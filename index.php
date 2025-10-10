@@ -739,7 +739,7 @@
 													class="elementor-element elementor-element-2fb5ff5 elementor-widget elementor-widget-heading"
 													data-id="2fb5ff5" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
-														<h1 class="elementor-heading-title elementor-size-default">Five Star Formwork System</h1>
+														<h1 class="elementor-heading-title elementor-size-default">GBS Formwork Systems</h1>
 													</div>
 												</div>
 												<div
@@ -920,12 +920,13 @@
 								</div>
 								<div class="elementor-element elementor-element-2270719 elementor-widget elementor-widget-heading" data-id="2270719" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Welcome to Five Star Formwork System</h2>
+										<h2 class="elementor-heading-title elementor-size-default">Welcome to GBS Formwork Systems</h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-cf275cd elementor-widget elementor-widget-text-editor" data-id="cf275cd" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>Are you ready to transform the way you approach construction? At Five Star Formwork System, we bring you a groundbreaking solution that’s changing the landscape of building construction. Our aluminum formwork technology has taken the world by storm, offering unparalleled efficiency, strength, and quality.</p>
+										<p>Ready to revolutionize your construction process?
+											At GBS Formwork Systems, we deliver innovative solutions that are redefining modern building methods. Our advanced aluminum formwork technology is transforming the industry with unmatched efficiency, durability, and precision.</p>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-0a37d7c elementor-widget elementor-widget-button" data-id="0a37d7c" data-element_type="widget" data-widget_type="button.default">
@@ -1185,8 +1186,7 @@
 								</div>
 								<div class="elementor-element elementor-element-80133d5 elementor-widget elementor-widget-text-editor" data-id="80133d5" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>The Shell Plan is the cornerstone of every successful construction project. It’s more than just a blueprint; it’s the roadmap to turning dreams into reality. Meticulously crafted by our expert architects and engineers, the Shell Plan outlines the structural foundation, layout, and design elements that form the basis of your project.</p>
-										<p>With precision at its core, the Shell Plan ensures that every aspect aligns perfectly, setting the stage for a seamless construction journey. From the initial sketches to the final drafts, the Shell Plan is where innovation takes shape and where your vision comes to life. At Five Star Formwork System, we understand that a strong foundation is the key to building excellence, and the Shell Plan is where that foundation begins.</p>
+										<p>The Shell Plan is the cornerstone of every successful construction project. It’s more than just a blueprint—it’s the roadmap to turning visions into reality. Meticulously crafted by our skilled architects and engineers, the Shell Plan defines the structural foundation, layout, and design elements that form the backbone of your project.</p> <p>With precision at its core, the Shell Plan ensures that every detail aligns flawlessly, laying the groundwork for a seamless construction journey. From the first sketches to the final drafts, the Shell Plan is where innovation takes form and your vision comes to life. At <strong>GBS Formwork Systems</strong>, we believe that a strong foundation is the key to building excellence—and the Shell Plan is where that foundation begins.</p>
 									</div>
 								</div>
 							</div>
@@ -1962,7 +1962,7 @@
 								</div>
 								<div class="elementor-element elementor-element-a41bbe7 elementor-widget elementor-widget-text-editor" data-id="a41bbe7" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>At Five Star Formwork Systems, our commitment to excellence extends beyond cutting-edge construction solutions. We understand that comprehensive support is integral to your success. That’s why we offer a range of supplementary services designed to enhance your experience with us. From expert consultation to efficient installation, reliable delivery, and comprehensive Annual Maintenance Contracts (AMCs), we’re here to ensure your needs are met with precision and professionalism. Partner with us for an all-encompassing solution that takes your projects to new heights.</p>
+										<p>At <strong>GBS Formwork Systems</strong>, our commitment to excellence goes beyond providing cutting-edge construction solutions. We understand that complete support is essential to your success. That’s why we offer a range of supplementary services designed to enhance your experience with us. From expert consultation and efficient installation to reliable delivery and comprehensive Annual Maintenance Contracts (AMCs), we ensure your requirements are handled with precision and professionalism. Partner with us for a complete solution that elevates your projects to new heights.</p>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-3bd0843 elementor-widget elementor-widget-button" data-id="3bd0843" data-element_type="widget" data-widget_type="button.default">
@@ -2098,17 +2098,17 @@
 								</div>
 								<div class="elementor-element elementor-element-a55511c elementor-widget elementor-widget-heading" data-id="a55511c" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Why Choose Five Star Formwork System?</h2>
+										<h2 class="elementor-heading-title elementor-size-default">Why Choose GSB Formwork Systems?</h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-88955a6 elementor-widget elementor-widget-text-editor" data-id="88955a6" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>Experience the future of construction with Five Star Formwork System. Contact us today to explore the possibilities.</p>
+										<p>Experience the future of construction with GSB Formwork Systems. Contact us today to explore the possibilities.</p>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-48f0b4c elementor-widget elementor-widget-image" data-id="48f0b4c" data-element_type="widget" data-widget_type="image.default">
 									<div class="elementor-widget-container">
-										<img decoding="async" width="1024" height="768" src="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png" class="attachment-full size-full wp-image-306" alt="" srcset="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png 1024w, wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-300x225.png 300w, wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<img decoding="async" width="1024" height="768" src="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png" class="attachment-full size-full wp-image-306" alt="" srcset="assets\images\gbsphoto.jpeg" sizes="(max-width: 1024px) 100vw, 1024px">
 									</div>
 								</div>
 							</div>
@@ -2154,7 +2154,7 @@
 																		Strength Meets Precision </span>
 																</h4>
 																<p class="elementor-icon-box-description">
-																	At Five Star Formwork System, we prioritize both strength and precision. Our technology delivers cast-in-place reinforced concrete structures that stand tall and stable, meeting stringent industry standards.</p>
+																	At GBS Formwork Systems, we prioritize both strength and precision. Our technology delivers cast-in-place reinforced concrete structures that stand tall and stable, meeting stringent industry standards.</p>
 															</div>
 														</div>
 													</div>
@@ -2287,8 +2287,8 @@
 													<div class="elementor-widget-container">
 														<p>Ready to take the leap into the future of construction? Get in touch with our team of
 															experts who are dedicated to providing personalized solutions tailored to your
-															project&#8217;s needs. Experience the power of aluminum excellence with Five Star Formwork
-															System.</p>
+															project&#8217;s needs. Experience the power of aluminum excellence with GBS Formwork
+															Systems.</p>
 													</div>
 												</div>
 												<div
@@ -2452,10 +2452,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Precision and strength go hand in hand with Five Star Formwork System. Our structures not only look incredible but also withstand the test of time. A reliable partner for any construction endeavor.</div>
+																	GBS Formwork System has completely transformed our construction process. The quality of their aluminum formwork and the precision in design have helped us achieve faster timelines with superior results.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Diksha</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Rajesh Patil</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2463,10 +2463,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Efficiency at its finest! The aluminum formwork technology from Five Star Formwork System has not only boosted our productivity but has also elevated the aesthetics of our projects. Highly recommended.</div>
+																	The team at GBS Formwork System is extremely professional and supportive. From consultation to installation, everything was handled smoothly and on time. Highly recommended!</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Suman</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Amit Shah</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2474,10 +2474,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Incredible results in record time. Thanks to Five Star Formwork System, we completed multiple floors ahead of schedule, without compromising on quality. This system has reshaped our approach to construction.</div>
+																	We’ve been using GBS formwork solutions for multiple projects, and the innovation they bring to the table is outstanding. Their system ensures strength, accuracy, and long-term durability.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Akhilesh</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Nikhil Verma</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2485,10 +2485,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Five Star Formwork System transformed our project timeline. What used to take weeks now takes days, all while maintaining exceptional quality. A game-changer for the industry!</div>
+																	What impressed us most was their after-sales service and AMC support. GBS Formwork System truly cares about customer satisfaction even after project completion.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Saurabh</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Sneha Kulkarni</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2515,7 +2515,7 @@
 								<div class="elementor-element elementor-element-0f04ade elementor-widget elementor-widget-google_maps" data-id="0f04ade" data-element_type="widget" data-widget_type="google_maps.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-custom-embed">
-											<iframe loading="lazy" src="https://maps.google.com/maps?q=Shree%20Swarnabhaa%20Industries%20Private%20Limited&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="Shree Swarnabhaa Industries Private Limited" aria-label="Shree Swarnabhaa Industries Private Limited"></iframe>
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3767.005989298843!2d73.01536701114834!3d19.238570746772886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bc202a23f167%3A0x392de8c63aeb7eb1!2sMaheshwar%20Residency!5e0!3m2!1sen!2sin!4v1760100598535!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 										</div>
 									</div>
 								</div>
@@ -2593,7 +2593,7 @@
 											class="elementor-element elementor-element-80bf7b9 elementor-widget elementor-widget-text-editor"
 											data-id="80bf7b9" data-element_type="widget" data-widget_type="text-editor.default">
 											<div class="elementor-widget-container">
-												<p>Five Star Formwork System offers a revolutionary aluminium formwork construction system which
+												<p>GBS Formwork Systems offers a revolutionary aluminium formwork construction system which
 													has been developed and successfully used around the world to form cast-in-place reinforced
 													concrete structures.</p>
 											</div>
