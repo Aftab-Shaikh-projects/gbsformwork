@@ -1187,7 +1187,8 @@
 								</div>
 								<div class="elementor-element elementor-element-80133d5 elementor-widget elementor-widget-text-editor" data-id="80133d5" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>The Shell Plan is the cornerstone of every successful construction project. It’s more than just a blueprint—it’s the roadmap to turning visions into reality. Meticulously crafted by our skilled architects and engineers, the Shell Plan defines the structural foundation, layout, and design elements that form the backbone of your project.</p> <p>With precision at its core, the Shell Plan ensures that every detail aligns flawlessly, laying the groundwork for a seamless construction journey. From the first sketches to the final drafts, the Shell Plan is where innovation takes form and your vision comes to life. At <strong>GBS Formwork Systems</strong>, we believe that a strong foundation is the key to building excellence—and the Shell Plan is where that foundation begins.</p>
+										<p>The Shell Plan is the cornerstone of every successful construction project. It’s more than just a blueprint—it’s the roadmap to turning visions into reality. Meticulously crafted by our skilled architects and engineers, the Shell Plan defines the structural foundation, layout, and design elements that form the backbone of your project.</p>
+										<p>With precision at its core, the Shell Plan ensures that every detail aligns flawlessly, laying the groundwork for a seamless construction journey. From the first sketches to the final drafts, the Shell Plan is where innovation takes form and your vision comes to life. At <strong>GBS Formwork Systems</strong>, we believe that a strong foundation is the key to building excellence—and the Shell Plan is where that foundation begins.</p>
 									</div>
 								</div>
 							</div>
@@ -1326,9 +1327,9 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27 fade-in-up"
 											data-id="9b21c27" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1357,7 +1358,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e fade-in-up"
 											data-id="8cc971e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1386,7 +1387,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5 fade-in-up"
 											data-id="1f5b2e5" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1415,7 +1416,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982 fade-in-up"
 											data-id="3628982" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1446,9 +1447,9 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1477,7 +1478,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1506,7 +1507,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1535,7 +1536,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1568,7 +1569,7 @@
 								</section>
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
 											data-id="9b21c27" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1597,7 +1598,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e"
 											data-id="8cc971e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1626,7 +1627,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5"
 											data-id="1f5b2e5" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1655,7 +1656,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982"
 											data-id="3628982" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1688,7 +1689,7 @@
 								</section>
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1717,7 +1718,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1746,7 +1747,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1775,7 +1776,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1808,7 +1809,7 @@
 								</section>
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
@@ -1836,7 +1837,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1865,7 +1866,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1894,7 +1895,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
