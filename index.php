@@ -943,7 +943,7 @@
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d5bf146 elementor-widget elementor-widget-image  fade-in-right" data-id="d5bf146" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fade-in-right&quot;}" data-widget_type="image.default">
 									<div class="elementor-widget-container">
-										<img decoding="async" width="1440" height="1080" src="wp-content/uploads/2023/08/211679903620.jpg" class="attachment-full size-full wp-image-134" alt="" srcset="wp-content/uploads/2023/08/211679903620.jpg 1440w, wp-content/uploads/2023/08/211679903620-300x225.jpg 300w, wp-content/uploads/2023/08/211679903620-1024x768.jpg 1024w, wp-content/uploads/2023/08/211679903620-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px">
+										<img decoding="async" width="1440" height="1080" src="wp-content/uploads/2023/08/211679903620.jpg" class="attachment-full size-full wp-image-134" >
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box  bounce-in">
