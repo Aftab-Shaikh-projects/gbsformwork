@@ -802,7 +802,7 @@
 								</div>
 								<div class="elementor-element elementor-element-eb42614 elementor-widget elementor-widget-heading" data-id="eb42614" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h4 class="elementor-heading-title elementor-size-default">Estd. 2018</h4>
+										<h4 class="elementor-heading-title elementor-size-default">Estd. 2025</h4>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-d4289e4 elementor-widget elementor-widget-counter" data-id="d4289e4" data-element_type="widget" data-widget_type="counter.default">
@@ -811,7 +811,7 @@
 											<div class="elementor-counter-title">Projects</div>
 											<div class="elementor-counter-number-wrapper">
 												<span class="elementor-counter-number-prefix"></span>
-												<span class="elementor-counter-number" data-duration="2000" data-to-value="45" data-from-value="0" data-delimiter=",">45</span>
+												<span class="elementor-counter-number" data-duration="2000" data-to-value="45" data-from-value="0" data-delimiter=",">5</span>
 												<span class="elementor-counter-number-suffix">+</span>
 											</div>
 										</div>
@@ -835,7 +835,8 @@
 															<div class="elementor-icon-box-content">
 																<h4 class="elementor-icon-box-title">
 																	<span>
-																		ALUMINUM FORMWORK SYSTEM </span>
+																		ALUMINUM FORMWORK SYSTEM, </span>
+																		
 																</h4>
 															</div>
 														</div>
@@ -890,6 +891,32 @@
 																<h4 class="elementor-icon-box-title">
 																	<span>
 																		FORMWORK ASSEMBLY </span>
+																</h4>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="elementor-element elementor-element-4afe06f elementor-align-center elementor-widget elementor-widget-button" data-id="4afe06f" data-element_type="widget" data-widget_type="button.default">
+													<div class="elementor-widget-container">
+														<div class="elementor-button-wrapper">
+
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-56c332a  fade-in-right">
+											<div class="elementor-widget-wrap elementor-element-populated">
+												<div class="elementor-element elementor-element-61dcb93 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="61dcb93" data-element_type="widget" data-widget_type="icon-box.default">
+													<div class="elementor-widget-container">
+														<div class="elementor-icon-box-wrapper">
+															<div class="elementor-icon-box-icon">
+																<span class="elementor-icon elementor-animation-">
+																	<i aria-hidden="true" class="mdi mdi-message-processing-outline"></i> </span>
+															</div>
+															<div class="elementor-icon-box-content">
+																<h4 class="elementor-icon-box-title">
+																	<span>SCAFFOLDING SYSTEMS </span>
 																</h4>
 															</div>
 														</div>
