@@ -4,20 +4,20 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
-	<script data-no-optimize="1" type="1191501f75ba09a8d0808bb5-text/javascript">
+	<!-- <script data-no-optimize="1" type="1191501f75ba09a8d0808bb5-text/javascript">
 		var litespeed_docref = sessionStorage.getItem("litespeed_docref");
 		litespeed_docref && (Object.defineProperty(document, "referrer", {
 			get: function() {
 				return litespeed_docref
 			}
 		}), sessionStorage.removeItem("litespeed_docref"));
-	</script>
+	</script> -->
 	<meta charset="UTF-8">
 	<link data-optimized="2" rel="stylesheet"
 		href="wp-content/litespeed/css/d570fda4ea76cd953cfb210bbfe78f89ab4b.css?ver=02216" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Five Star Formwork &#8211; Best Formwork Solutions</title>
+	<title>GBS Formwork Systems</title>
 	<meta name='robots' content='max-image-preview:large' />
 	<style>
 		img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -458,13 +458,15 @@
 	</style>
 
 	<style>
+		/* FIX: Add this to your CSS */
+		/* FIX: A stronger global fix for overflow */
+		html,
 		body {
+			width: 100%;
 			overflow-x: hidden;
 		}
 
-		/* --- General Animation Setup --- */
-		/* Elements start as invisible and slightly moved */
-		/*  */
+
 		.fade-in-up {
 			opacity: 0;
 			transform: translateY(100%);
@@ -538,9 +540,7 @@
 		/* Add more if needed */
 	</style>
 	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-	<!-- <script type="litespeed/javascript" data-src="wp-includes/js/jquery/jquery.min.js"
-		id="jquery-core-js"></script> -->
-	<!-- <meta name="generator" content="WordPress 6.8.2" /> -->
+
 
 	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
 		href="wp-json/oembed/1.0/embed67bf.json" />
@@ -616,7 +616,7 @@
 										<div
 											class="elementor-element elementor-element-7bdcc948 elementor-nav-menu__align-end elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"
 											data-id="7bdcc948" data-element_type="widget"
-											data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-angle-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+											data-settings=""
 											data-widget_type="nav-menu.default">
 											<div class="elementor-widget-container">
 												<nav aria-label="Menu"
@@ -710,7 +710,8 @@
 							<div class="swiper-slide ">
 								<div class="elementor-background-slideshow__slide__image elementor-ken-burns elementor-ken-burns--in swiper-lazy swiper-lazy-loaded hero_cust_animation" style="background-image: url(wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png);"></div>
 							</div>
-						</div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+						</div>
+						<!-- <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span> -->
 					</div>
 					<div class="elementor-background-overlay">
 
@@ -739,7 +740,7 @@
 													class="elementor-element elementor-element-2fb5ff5 elementor-widget elementor-widget-heading"
 													data-id="2fb5ff5" data-element_type="widget" data-widget_type="heading.default">
 													<div class="elementor-widget-container">
-														<h1 class="elementor-heading-title elementor-size-default">Five Star Formwork System</h1>
+														<h1 class="elementor-heading-title elementor-size-default">GBS Formwork Systems</h1>
 													</div>
 												</div>
 												<div
@@ -801,7 +802,7 @@
 								</div>
 								<div class="elementor-element elementor-element-eb42614 elementor-widget elementor-widget-heading" data-id="eb42614" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h4 class="elementor-heading-title elementor-size-default">Estd. 2018</h4>
+										<h4 class="elementor-heading-title elementor-size-default">Estd. 2025</h4>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-d4289e4 elementor-widget elementor-widget-counter" data-id="d4289e4" data-element_type="widget" data-widget_type="counter.default">
@@ -810,7 +811,7 @@
 											<div class="elementor-counter-title">Projects</div>
 											<div class="elementor-counter-number-wrapper">
 												<span class="elementor-counter-number-prefix"></span>
-												<span class="elementor-counter-number" data-duration="2000" data-to-value="45" data-from-value="0" data-delimiter=",">45</span>
+												<span class="elementor-counter-number" data-duration="2000" data-to-value="45" data-from-value="0" data-delimiter=",">5</span>
 												<span class="elementor-counter-number-suffix">+</span>
 											</div>
 										</div>
@@ -834,7 +835,8 @@
 															<div class="elementor-icon-box-content">
 																<h4 class="elementor-icon-box-title">
 																	<span>
-																		ALUMINUM FORMWORK SYSTEM </span>
+																		ALUMINUM FORMWORK SYSTEM, </span>
+																		
 																</h4>
 															</div>
 														</div>
@@ -903,6 +905,32 @@
 												</div>
 											</div>
 										</div>
+										<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-56c332a  fade-in-right">
+											<div class="elementor-widget-wrap elementor-element-populated">
+												<div class="elementor-element elementor-element-61dcb93 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="61dcb93" data-element_type="widget" data-widget_type="icon-box.default">
+													<div class="elementor-widget-container">
+														<div class="elementor-icon-box-wrapper">
+															<div class="elementor-icon-box-icon">
+																<span class="elementor-icon elementor-animation-">
+																	<i aria-hidden="true" class="mdi mdi-message-processing-outline"></i> </span>
+															</div>
+															<div class="elementor-icon-box-content">
+																<h4 class="elementor-icon-box-title">
+																	<span>SCAFFOLDING SYSTEMS </span>
+																</h4>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="elementor-element elementor-element-4afe06f elementor-align-center elementor-widget elementor-widget-button" data-id="4afe06f" data-element_type="widget" data-widget_type="button.default">
+													<div class="elementor-widget-container">
+														<div class="elementor-button-wrapper">
+
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
 									</div>
 								</section>
 							</div>
@@ -920,12 +948,13 @@
 								</div>
 								<div class="elementor-element elementor-element-2270719 elementor-widget elementor-widget-heading" data-id="2270719" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Welcome to Five Star Formwork System</h2>
+										<h2 class="elementor-heading-title elementor-size-default">Welcome to GBS Formwork Systems</h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-cf275cd elementor-widget elementor-widget-text-editor" data-id="cf275cd" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>Are you ready to transform the way you approach construction? At Five Star Formwork System, we bring you a groundbreaking solution that’s changing the landscape of building construction. Our aluminum formwork technology has taken the world by storm, offering unparalleled efficiency, strength, and quality.</p>
+										<p>Ready to revolutionize your construction process?
+											At GBS Formwork Systems, we deliver innovative solutions that are redefining modern building methods. Our advanced aluminum formwork technology is transforming the industry with unmatched efficiency, durability, and precision.</p>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-0a37d7c elementor-widget elementor-widget-button" data-id="0a37d7c" data-element_type="widget" data-widget_type="button.default">
@@ -941,7 +970,7 @@
 							<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d5bf146 elementor-widget elementor-widget-image  fade-in-right" data-id="d5bf146" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fade-in-right&quot;}" data-widget_type="image.default">
 									<div class="elementor-widget-container">
-										<img decoding="async" width="1440" height="1080" src="wp-content/uploads/2023/08/211679903620.jpg" class="attachment-full size-full wp-image-134" alt="" srcset="wp-content/uploads/2023/08/211679903620.jpg 1440w, wp-content/uploads/2023/08/211679903620-300x225.jpg 300w, wp-content/uploads/2023/08/211679903620-1024x768.jpg 1024w, wp-content/uploads/2023/08/211679903620-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px">
+										<img decoding="async" width="1440" height="1080" src="wp-content/uploads/2023/08/211679903620.jpg" class="attachment-full size-full wp-image-134" >
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-f025239 elementor-widget__width-initial elementor-absolute elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box  bounce-in">
@@ -1185,8 +1214,8 @@
 								</div>
 								<div class="elementor-element elementor-element-80133d5 elementor-widget elementor-widget-text-editor" data-id="80133d5" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>The Shell Plan is the cornerstone of every successful construction project. It’s more than just a blueprint; it’s the roadmap to turning dreams into reality. Meticulously crafted by our expert architects and engineers, the Shell Plan outlines the structural foundation, layout, and design elements that form the basis of your project.</p>
-										<p>With precision at its core, the Shell Plan ensures that every aspect aligns perfectly, setting the stage for a seamless construction journey. From the initial sketches to the final drafts, the Shell Plan is where innovation takes shape and where your vision comes to life. At Five Star Formwork System, we understand that a strong foundation is the key to building excellence, and the Shell Plan is where that foundation begins.</p>
+										<p>The Shell Plan is the cornerstone of every successful construction project. It’s more than just a blueprint—it’s the roadmap to turning visions into reality. Meticulously crafted by our skilled architects and engineers, the Shell Plan defines the structural foundation, layout, and design elements that form the backbone of your project.</p>
+										<p>With precision at its core, the Shell Plan ensures that every detail aligns flawlessly, laying the groundwork for a seamless construction journey. From the first sketches to the final drafts, the Shell Plan is where innovation takes form and your vision comes to life. At <strong>GBS Formwork Systems</strong>, we believe that a strong foundation is the key to building excellence—and the Shell Plan is where that foundation begins.</p>
 									</div>
 								</div>
 							</div>
@@ -1325,9 +1354,9 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27 fade-in-up"
 											data-id="9b21c27" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1356,7 +1385,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e fade-in-up"
 											data-id="8cc971e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1385,7 +1414,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5 fade-in-up"
 											data-id="1f5b2e5" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1414,7 +1443,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982"
+										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982 fade-in-up"
 											data-id="3628982" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1445,9 +1474,9 @@
 										</div>
 									</div>
 								</section>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1476,7 +1505,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1505,7 +1534,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1534,7 +1563,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1567,7 +1596,7 @@
 								</section>
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9b21c27"
 											data-id="9b21c27" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1596,7 +1625,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8cc971e"
 											data-id="8cc971e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1625,7 +1654,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f5b2e5"
 											data-id="1f5b2e5" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1654,7 +1683,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3628982"
 											data-id="3628982" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1687,7 +1716,7 @@
 								</section>
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1716,7 +1745,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1745,7 +1774,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1774,7 +1803,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1807,7 +1836,7 @@
 								</section>
 								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c89469 elementor-section-boxed elementor-section-height-default elementor-section-height-default  fade-in">
 									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8a4732a"
 											data-id="8a4732a" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div class="elementor-element elementor-element-15ec27f elementor-bg-transform elementor-bg-transform-move-up elementor-cta--skin-classic elementor--content elementor-widget elementor-widget-call-to-action"
@@ -1835,7 +1864,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3d292f4"
 											data-id="3d292f4" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1864,7 +1893,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-84624fb"
 											data-id="84624fb" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1893,7 +1922,7 @@
 												</div>
 											</div>
 										</div>
-										<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
+										<div class="fade-in-up elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d862a6e"
 											data-id="d862a6e" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
 												<div
@@ -1962,7 +1991,7 @@
 								</div>
 								<div class="elementor-element elementor-element-a41bbe7 elementor-widget elementor-widget-text-editor" data-id="a41bbe7" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>At Five Star Formwork Systems, our commitment to excellence extends beyond cutting-edge construction solutions. We understand that comprehensive support is integral to your success. That’s why we offer a range of supplementary services designed to enhance your experience with us. From expert consultation to efficient installation, reliable delivery, and comprehensive Annual Maintenance Contracts (AMCs), we’re here to ensure your needs are met with precision and professionalism. Partner with us for an all-encompassing solution that takes your projects to new heights.</p>
+										<p>At <strong>GBS Formwork Systems</strong>, our commitment to excellence goes beyond providing cutting-edge construction solutions. We understand that complete support is essential to your success. That’s why we offer a range of supplementary services designed to enhance your experience with us. From expert consultation and efficient installation to reliable delivery and comprehensive Annual Maintenance Contracts (AMCs), we ensure your requirements are handled with precision and professionalism. Partner with us for a complete solution that elevates your projects to new heights.</p>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-3bd0843 elementor-widget elementor-widget-button" data-id="3bd0843" data-element_type="widget" data-widget_type="button.default">
@@ -2098,17 +2127,17 @@
 								</div>
 								<div class="elementor-element elementor-element-a55511c elementor-widget elementor-widget-heading" data-id="a55511c" data-element_type="widget" data-widget_type="heading.default">
 									<div class="elementor-widget-container">
-										<h2 class="elementor-heading-title elementor-size-default">Why Choose Five Star Formwork System?</h2>
+										<h2 class="elementor-heading-title elementor-size-default">Why Choose GSB Formwork Systems?</h2>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-88955a6 elementor-widget elementor-widget-text-editor" data-id="88955a6" data-element_type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-widget-container">
-										<p>Experience the future of construction with Five Star Formwork System. Contact us today to explore the possibilities.</p>
+										<p>Experience the future of construction with GSB Formwork Systems. Contact us today to explore the possibilities.</p>
 									</div>
 								</div>
 								<div class="elementor-element elementor-element-48f0b4c elementor-widget elementor-widget-image" data-id="48f0b4c" data-element_type="widget" data-widget_type="image.default">
 									<div class="elementor-widget-container">
-										<img decoding="async" width="1024" height="768" src="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png" class="attachment-full size-full wp-image-306" alt="" srcset="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png 1024w, wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-300x225.png 300w, wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px">
+										<img decoding="async" width="1024" height="768" src="wp-content/uploads/2023/09/aluminum-concrete-formwork-2-1024x768-1.png" class="attachment-full size-full wp-image-306" alt="" srcset="assets\images\gbsphoto.jpeg" sizes="(max-width: 1024px) 100vw, 1024px">
 									</div>
 								</div>
 							</div>
@@ -2154,7 +2183,7 @@
 																		Strength Meets Precision </span>
 																</h4>
 																<p class="elementor-icon-box-description">
-																	At Five Star Formwork System, we prioritize both strength and precision. Our technology delivers cast-in-place reinforced concrete structures that stand tall and stable, meeting stringent industry standards.</p>
+																	At GBS Formwork Systems, we prioritize both strength and precision. Our technology delivers cast-in-place reinforced concrete structures that stand tall and stable, meeting stringent industry standards.</p>
 															</div>
 														</div>
 													</div>
@@ -2287,8 +2316,8 @@
 													<div class="elementor-widget-container">
 														<p>Ready to take the leap into the future of construction? Get in touch with our team of
 															experts who are dedicated to providing personalized solutions tailored to your
-															project&#8217;s needs. Experience the power of aluminum excellence with Five Star Formwork
-															System.</p>
+															project&#8217;s needs. Experience the power of aluminum excellence with GBS Formwork
+															Systems.</p>
 													</div>
 												</div>
 												<div
@@ -2452,10 +2481,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Precision and strength go hand in hand with Five Star Formwork System. Our structures not only look incredible but also withstand the test of time. A reliable partner for any construction endeavor.</div>
+																	GBS Formwork System has completely transformed our construction process. The quality of their aluminum formwork and the precision in design have helped us achieve faster timelines with superior results.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Diksha</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Rajesh Patil</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2463,10 +2492,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Efficiency at its finest! The aluminum formwork technology from Five Star Formwork System has not only boosted our productivity but has also elevated the aesthetics of our projects. Highly recommended.</div>
+																	The team at GBS Formwork System is extremely professional and supportive. From consultation to installation, everything was handled smoothly and on time. Highly recommended!</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Suman</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Amit Shah</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2474,10 +2503,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Incredible results in record time. Thanks to Five Star Formwork System, we completed multiple floors ahead of schedule, without compromising on quality. This system has reshaped our approach to construction.</div>
+																	We’ve been using GBS formwork solutions for multiple projects, and the innovation they bring to the table is outstanding. Their system ensures strength, accuracy, and long-term durability.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Akhilesh</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Nikhil Verma</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2485,10 +2514,10 @@
 														<div class="elementor-testimonial">
 															<div class="elementor-testimonial__content">
 																<div class="elementor-testimonial__text">
-																	Five Star Formwork System transformed our project timeline. What used to take weeks now takes days, all while maintaining exceptional quality. A game-changer for the industry!</div>
+																	What impressed us most was their after-sales service and AMC support. GBS Formwork System truly cares about customer satisfaction even after project completion.</div>
 															</div>
 															<div class="elementor-testimonial__footer">
-																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Saurabh</span></cite>
+																<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Sneha Kulkarni</span></cite>
 															</div>
 														</div>
 													</div>
@@ -2515,7 +2544,7 @@
 								<div class="elementor-element elementor-element-0f04ade elementor-widget elementor-widget-google_maps" data-id="0f04ade" data-element_type="widget" data-widget_type="google_maps.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-custom-embed">
-											<iframe loading="lazy" src="https://maps.google.com/maps?q=Shree%20Swarnabhaa%20Industries%20Private%20Limited&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="Shree Swarnabhaa Industries Private Limited" aria-label="Shree Swarnabhaa Industries Private Limited"></iframe>
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3767.005989298843!2d73.01536701114834!3d19.238570746772886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bc202a23f167%3A0x392de8c63aeb7eb1!2sMaheshwar%20Residency!5e0!3m2!1sen!2sin!4v1760100598535!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 										</div>
 									</div>
 								</div>
@@ -2593,7 +2622,7 @@
 											class="elementor-element elementor-element-80bf7b9 elementor-widget elementor-widget-text-editor"
 											data-id="80bf7b9" data-element_type="widget" data-widget_type="text-editor.default">
 											<div class="elementor-widget-container">
-												<p>Five Star Formwork System offers a revolutionary aluminium formwork construction system which
+												<p>GBS Formwork Systems offers a revolutionary aluminium formwork construction system which
 													has been developed and successfully used around the world to form cast-in-place reinforced
 													concrete structures.</p>
 											</div>
@@ -2834,34 +2863,57 @@
 		});
 	</script>
 
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-	<script>
+	<!-- <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" /> -->
+	<!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
+	<!-- <script>
 		AOS.init({
 			duration: 800, // values from 0 to 3000, with step 50ms
 			once: true, // whether animation should happen only once - while scrolling down
 		});
-	</script>
+	</script> -->
 	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			const animation_elements = document.querySelectorAll('.fade-in-up, .fade-in-left, .fade-in-right, .stagger-children,.fade-in-down,.bounce-in,.fade-in');
+		$(function() {
+			// Select all elements you want to animate
+			const $animation_elements = $('.fade-in-up, .fade-in-left, .fade-in-right, .stagger-children, .fade-in-down, .bounce-in, .fade-in');
 
-			const observer = new IntersectionObserver((entries) => {
-				entries.forEach((entry) => {
-					if (entry.isIntersecting) {
-						entry.target.classList.add('visible');
-						// Optional: stop observing the element once it's visible
-						observer.unobserve(entry.target);
+			// Get the window object
+			const $window = $(window);
+
+			function checkElementsAreOnScreen() {
+				const window_height = $window.height();
+				const window_top_position = $window.scrollTop();
+				const window_bottom_position = (window_top_position + window_height);
+
+				// Find all elements that need to be animated and are not yet visible
+				// This is the efficient part: it only checks elements that don't have the .visible class yet
+				const $elements_to_animate = $animation_elements.filter(':not(.visible)');
+
+				// If all elements are already visible, we can stop checking
+				if ($elements_to_animate.length === 0) {
+					$window.off('scroll resize', checkElementsAreOnScreen);
+					return;
+				}
+
+				$.each($elements_to_animate, function() {
+					const $element = $(this);
+					const element_height = $element.outerHeight();
+					const element_top_position = $element.offset().top;
+					const element_bottom_position = (element_top_position + element_height);
+
+					// Check if any part of the element is within the viewport
+					if ((element_bottom_position >= window_top_position) &&
+						(element_top_position <= window_bottom_position)) {
+						$element.addClass('visible');
 					}
 				});
-			}, {
-				threshold: 0.1 // Trigger when 10% of the element is visible
-			});
-
-			for (let i = 0; i < animation_elements.length; i++) {
-				const el = animation_elements[i];
-				observer.observe(el);
 			}
+
+			// Attach the function to the scroll and resize events
+			$window.on('scroll resize', checkElementsAreOnScreen);
+
+			// Trigger the check once on page load to show elements already in view
+			// A small timeout helps ensure all page elements have their final positions
+			setTimeout(checkElementsAreOnScreen, 25);
 		});
 
 		const Testimonial_swiper = new Swiper('#Testimonial_swiper', {
